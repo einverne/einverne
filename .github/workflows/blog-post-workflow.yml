@@ -16,3 +16,5 @@ jobs:
         with:
           max_post_count: "5"
           feed_list: "https://blog.einverne.info/feed.xml"
+          date_format: "yyyy-mm-dd"
+          template: "[$title]($url) $date$newline"
