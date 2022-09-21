@@ -15,6 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
-          feed_list: "https://blog.einverne.info/feed.xml"
-          date_format: "yyyy-mm-dd"
-          template: "[$title]($url) $date$newline"
+          feed_list: "https://einverne.github.io/feed.xml"
