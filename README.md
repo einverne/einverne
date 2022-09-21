@@ -21,11 +21,12 @@
 
 
 <h3 align="left">📕 &nbsp;Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->[现代政治的正当性基础 读书笔记](/post/2022/09/modern-politics.html) 2022-09-08
-[富兰克林自传 读书笔记](/post/2022/08/franklin-autobiography.html) 2022-08-22
-[PlanetScale 云端 MySQL 数据库使用记录](/post/2022/08/planetscale-mysql-service.html) 2022-08-16
-[新教伦理与资本主义精神 读书笔记](/post/2022/08/the-protestant-ethic-and-the-spirit-of-capitalism.html) 2022-08-15
-[谣言 世界最古老的传媒 读书笔记](/post/2022/08/rumour.html) 2022-08-04
+<!-- BLOG-POST-LIST:START -->
+- [现代政治的正当性基础 读书笔记](https://einverne.github.io/post/2022/09/modern-politics.html)
+- [富兰克林自传 读书笔记](https://einverne.github.io/post/2022/08/franklin-autobiography.html)
+- [PlanetScale 云端 MySQL 数据库使用记录](https://einverne.github.io/post/2022/08/planetscale-mysql-service.html)
+- [新教伦理与资本主义精神 读书笔记](https://einverne.github.io/post/2022/08/the-protestant-ethic-and-the-spirit-of-capitalism.html)
+- [谣言 世界最古老的传媒 读书笔记](https://einverne.github.io/post/2022/08/rumour.html)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" src="/metrics.base.svg" alt="Metrics" width="400">
