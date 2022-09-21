@@ -27,3 +27,5 @@
 [新教伦理与资本主义精神 读书笔记](/post/2022/08/the-protestant-ethic-and-the-spirit-of-capitalism.html) 2022-08-15
 [谣言 世界最古老的传媒 读书笔记](/post/2022/08/rumour.html) 2022-08-04
 <!-- BLOG-POST-LIST:END -->
+
+<img align="left" src="/metrics.base.svg" alt="Metrics" width="400">
