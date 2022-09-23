@@ -19,11 +19,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用开源 Wakapi 代替 WakaTime 统计编码时间](https://einverne.github.io/post/2022/09/wakapi-usage.html)
+- [使用 WakaTime 统计编码时间](https://einverne.github.io/post/2022/09/wakatime-unlock-all-your-code-stats.html)
 - [折腾一下 GitHub Profile](https://einverne.github.io/post/2022/09/github-profile.html)
 - [现代政治的正当性基础 读书笔记](https://einverne.github.io/post/2022/09/modern-politics.html)
 - [富兰克林自传 读书笔记](https://einverne.github.io/post/2022/08/franklin-autobiography.html)
-- [PlanetScale 云端 MySQL 数据库使用记录](https://einverne.github.io/post/2022/08/planetscale-mysql-service.html)
-- [新教伦理与资本主义精神 读书笔记](https://einverne.github.io/post/2022/08/the-protestant-ethic-and-the-spirit-of-capitalism.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
