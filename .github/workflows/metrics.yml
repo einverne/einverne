@@ -15,6 +15,7 @@ jobs:
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
+          config_timezone: Asia/Shanghai
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
