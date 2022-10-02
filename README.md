@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arc 浏览器初印象](https://einverne.github.io/post/2022/09/arc-browser-first-impression.html)
+- [解决 Clash for Windows 节点测速 timeout 问题](https://einverne.github.io/post/2022/09/clash-for-windows-timeout.html)
 - [使用开源 Wakapi 代替 WakaTime 统计编码时间](https://einverne.github.io/post/2022/09/wakapi-usage.html)
 - [使用 WakaTime 统计编码时间](https://einverne.github.io/post/2022/09/wakatime-unlock-all-your-code-stats.html)
 - [折腾一下 GitHub Profile](https://einverne.github.io/post/2022/09/github-profile.html)
-- [现代政治的正当性基础 读书笔记](https://einverne.github.io/post/2022/09/modern-politics.html)
-- [富兰克林自传 读书笔记](https://einverne.github.io/post/2022/08/franklin-autobiography.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
