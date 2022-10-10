@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [.info 域名涨价应对策略](https://einverne.github.io/post/2022/10/domain-renewal-price-increase-solution.html)
 - [MP3 ID3 结构](https://einverne.github.io/post/2022/10/mp3-id3.html)
 - [将字幕压制到视频中](https://einverne.github.io/post/2022/10/embedded-subtitle-into-video.html)
 - [Arc 浏览器初印象](https://einverne.github.io/post/2022/09/arc-browser-first-impression.html)
 - [解决 Clash for Windows 节点测速 timeout 问题](https://einverne.github.io/post/2022/09/clash-for-windows-timeout.html)
-- [使用开源 Wakapi 代替 WakaTime 统计编码时间](https://einverne.github.io/post/2022/09/wakapi-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
