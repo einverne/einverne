@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [日语学习计划](https://einverne.github.io/post/2022/10/japanese-learning-plan.html)
+- [GitLab CI 提交代码 not allowe to upload code 问题解决](https://einverne.github.io/post/2022/10/gitlab-ci-not-allowed-to-upload-code.html)
 - [Git 对文件权限的控制](https://einverne.github.io/post/2022/10/git-file-permission.html)
 - [.info 域名涨价应对策略](https://einverne.github.io/post/2022/10/domain-renewal-price-increase-solution.html)
 - [MP3 ID3 结构](https://einverne.github.io/post/2022/10/mp3-id3.html)
-- [将字幕压制到视频中](https://einverne.github.io/post/2022/10/embedded-subtitle-into-video.html)
-- [Arc 浏览器初印象](https://einverne.github.io/post/2022/09/arc-browser-first-impression.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
