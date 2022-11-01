@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [调查 Netdata 10min cpu iowait 告警](https://einverne.github.io/post/2022/10/netdata-cpu-iowait.html)
 - [《原则》读书笔记](https://einverne.github.io/post/2022/10/principles-life-and-work.html)
 - [Linux 下的 nobody&lpar;65534&rpar; 账户](https://einverne.github.io/post/2022/10/unix-nobody-65534.html)
 - [《Go 语言高并发与微服务实战》 读书笔记](https://einverne.github.io/post/2022/10/golang-micro-serivce.html)
 - [日语输入法相关及 Rime 下输入日语](https://einverne.github.io/post/2022/10/japanese-input-method-macos-rime.html)
-- [日语发音基础：五十音](https://einverne.github.io/post/2022/10/japanese-hiragana-katakana.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
