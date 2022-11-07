@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian 中的日语学习工具](https://einverne.github.io/post/2022/11/japanese-learning-tools-in-obsidian.html)
 - [打字输入练习网站推荐](https://einverne.github.io/post/2022/11/type-practice-website.html)
 - [调查 Netdata 10min cpu iowait 告警](https://einverne.github.io/post/2022/10/netdata-cpu-iowait.html)
 - [《原则》读书笔记](https://einverne.github.io/post/2022/10/principles-life-and-work.html)
 - [Linux 下的 nobody&lpar;65534&rpar; 账户](https://einverne.github.io/post/2022/10/unix-nobody-65534.html)
-- [《Go 语言高并发与微服务实战》 读书笔记](https://einverne.github.io/post/2022/10/golang-micro-serivce.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
