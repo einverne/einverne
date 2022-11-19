@@ -3,7 +3,7 @@
 **I am a Software Engineer 💻, Open Source Enthusiast, Linux user :penguin: and a vimer :man:.**
 
 - 🌱 &nbsp;I’m currently learning Flutter
-- 📫 &nbsp;Reach me at [Twitter](https://twitter.com/einverne) or <a rel="me" href="https://m.gtk.pw/@einverne">Mastodon</a>.
+- 📫 &nbsp;Reach me at [Twitter](https://twitter.com/einverne) or <a rel="me" href="https://m.einverne.info/@einverne">Mastodon</a>.
 - 📝 I regularly write articles on <https://blog.einverne.info>.
 
 
