@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [《工作、消费主义和新穷人》读书笔记](https://einverne.github.io/post/2022/11/work-consumerism-and-the-new-poor.html)
+- [《活法》读书笔记](https://einverne.github.io/post/2022/11/the-meaning-of-life.html)
 - [Mastodon 站点管理：导入自定义表情包](https://einverne.github.io/post/2022/11/mastodon-custom-emoji.html)
 - [在线工作流 Pipedream 使用记录](https://einverne.github.io/post/2022/11/pipedream-usage.html)
 - [Obsidian 中的日语学习工具](https://einverne.github.io/post/2022/11/japanese-learning-tools-in-obsidian.html)
-- [打字输入练习网站推荐](https://einverne.github.io/post/2022/11/type-practice-website.html)
-- [调查 Netdata 10min cpu iowait 告警](https://einverne.github.io/post/2022/10/netdata-cpu-iowait.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
