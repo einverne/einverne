@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [动态规划问题梳理](https://einverne.github.io/post/2022/12/dynamic-programming.html)
 - [我们的尊严来自于自由](https://einverne.github.io/post/2022/11/liberty.html)
 - [在日本生活必备的应用收集整理](https://einverne.github.io/post/2022/11/applications-used-daily-in-japan.html)
 - [如何注册日区 Apple ID 以及初次登录日区 App Store](https://einverne.github.io/post/2022/11/how-to-registr-japan-app-store.html)
 - [《工作、消费主义和新穷人》读书笔记](https://einverne.github.io/post/2022/11/work-consumerism-and-the-new-poor.html)
-- [《活法》读书笔记](https://einverne.github.io/post/2022/11/the-meaning-of-life.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
