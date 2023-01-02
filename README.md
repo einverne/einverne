@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [.idea 文件夹的内容梳理](https://einverne.github.io/post/2022/12/behind-the-hidden-idea-folder.html)
+- [Java 11 新特性学习](https://einverne.github.io/post/2022/12/java-11-new-feature.html)
 - [《天朝的崩溃：鸦片战争再研究》读书笔记](https://einverne.github.io/post/2022/12/the-collapse-of-the-heavenly-dynasty.html)
 - [editorconfig 配置文件说明](https://einverne.github.io/post/2022/12/editorconfig-introduction.html)
 - [动态规划问题梳理](https://einverne.github.io/post/2022/12/dynamic-programming.html)
-- [我们的尊严来自于自由](https://einverne.github.io/post/2022/11/liberty.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
