@@ -24,8 +24,8 @@
 - [zsh 配置文件解析及优先级](https://einverne.github.io/post/2023/01/zprofile-zshrc.html)
 - [阿加莎・克里斯蒂自传](https://einverne.github.io/post/2023/01/an-autobiography.html)
 - [HestiaCP 面板中的模板文件](https://einverne.github.io/post/2023/01/hestiacp-web-template.html)
+- [REST-assured 简单使用](https://einverne.github.io/post/2023/01/rest-assured-introduction.html)
 - [J3455 主板无法使用 PCIe 扩展 SATA 启动系统解决](https://einverne.github.io/post/2023/01/j3455-itx-cannot-boot-csm.html)
-- [.idea 文件夹的内容梳理](https://einverne.github.io/post/2022/12/behind-the-hidden-idea-folder.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
