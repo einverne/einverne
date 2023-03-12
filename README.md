@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [由 ChatGPT 延展开整理一下 AI 相关的服务和产品](https://einverne.github.io/post/2023/02/chatgpt-ai-powered-services.html)
 - [GitHub Blocks 使用体验](https://einverne.github.io/post/2023/02/github-blocks-usage.html)
 - [zsh 配置文件解析及优先级](https://einverne.github.io/post/2023/01/zprofile-zshrc.html)
 - [阿加莎・克里斯蒂自传](https://einverne.github.io/post/2023/01/an-autobiography.html)
 - [HestiaCP 面板中的模板文件](https://einverne.github.io/post/2023/01/hestiacp-web-template.html)
-- [REST-assured 简单使用](https://einverne.github.io/post/2023/01/rest-assured-introduction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
