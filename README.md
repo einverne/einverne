@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [《负动产时代》读书笔记](https://einverne.github.io/post/2023/03/negative-assets.html)
 - [如何在 Chrome 中使用 New Bing](https://einverne.github.io/post/2023/03/use-new-bing-in-chrome.html)
 - [电子销售平台：Lemon Squeezy 简单介绍](https://einverne.github.io/post/2023/03/lemon-squeezy.html)
 - [注册土区 Apple ID 并购买 iCloud 作为家庭共享](https://einverne.github.io/post/2023/03/register-turkey-apple-id-icloud.html)
 - [由 ChatGPT 延展开整理一下 AI 相关的服务和产品](https://einverne.github.io/post/2023/02/chatgpt-ai-powered-services.html)
-- [GitHub Blocks 使用体验](https://einverne.github.io/post/2023/02/github-blocks-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
