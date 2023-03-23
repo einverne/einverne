@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [给网站加上实时聊天对话框 tawk.to 使用记录](https://einverne.github.io/post/2023/03/tawk-to-usage.html)
+- [下载 YouTube 视频方法总结](https://einverne.github.io/post/2023/03/youtube-video-download.html)
 - [Tailscale 出口节点功能配置流量出口](https://einverne.github.io/post/2023/03/tailscale-exit-nodes.html)
 - [Porkbun 免费领取一年 app wiki 等域名](https://einverne.github.io/post/2023/03/porkbun-free-wiki-app-domain.html)
 - [《负动产时代》读书笔记](https://einverne.github.io/post/2023/03/negative-assets.html)
-- [如何在 Chrome 中使用 New Bing](https://einverne.github.io/post/2023/03/use-new-bing-in-chrome.html)
-- [IRC 使用](https://einverne.github.io/post/2023/03/irc-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
