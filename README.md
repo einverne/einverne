@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Web 3.0 音乐平台：Muverse 简单介绍](https://einverne.github.io/post/2023/03/muverse.html)
+- [邮件发送服务 MXRoute 使用体验](https://einverne.github.io/post/2023/03/mxroute-usage.html)
 - [Google 聊天机器人 Bard 逆向](https://einverne.github.io/post/2023/03/google-bard-reverse-engineering.html)
 - [给网站加上实时聊天对话框 tawk.to 使用记录](https://einverne.github.io/post/2023/03/tawk-to-usage.html)
 - [下载 YouTube 视频方法总结](https://einverne.github.io/post/2023/03/youtube-video-download.html)
-- [Tailscale 出口节点功能配置流量出口](https://einverne.github.io/post/2023/03/tailscale-exit-nodes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
