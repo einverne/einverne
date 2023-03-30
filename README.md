@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [自建邮件服务器 Mailcow 配置通过 MXRoute 发送邮件](https://einverne.github.io/post/2023/03/mailcow-relaying-through-mxroute.html)
 - [macOS 上轻便的 Docker 容器以及 Linux 运行环境](https://einverne.github.io/post/2023/03/orbstack-docker-runtime-and-virtual-linux.html)
 - [Web 3.0 音乐平台：Muverse 简单介绍](https://einverne.github.io/post/2023/03/muverse.html)
 - [邮件发送服务 MXRoute 使用体验](https://einverne.github.io/post/2023/03/mxroute-usage.html)
 - [Google 聊天机器人 Bard 逆向](https://einverne.github.io/post/2023/03/google-bard-reverse-engineering.html)
-- [给网站加上实时聊天对话框 tawk.to 使用记录](https://einverne.github.io/post/2023/03/tawk-to-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
