@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [记录一下 Clientexec 中配置 SMTP 时的一些问题](https://einverne.github.io/post/2023/04/clientexec-smtp-config.html)
+- [介绍一下新推出的 EV Hosting 网络共享托管服务](https://einverne.github.io/post/2023/04/introducing-ev-hosting.html)
 - [Clientexec 汉化](https://einverne.github.io/post/2023/04/clientexec-language-chinese.html)
 - [自建邮件服务器 Mailcow 配置通过 MXRoute 发送邮件](https://einverne.github.io/post/2023/03/mailcow-relaying-through-mxroute.html)
 - [macOS 上轻便的 Docker 容器以及 Linux 运行环境](https://einverne.github.io/post/2023/03/orbstack-docker-runtime-and-virtual-linux.html)
-- [Web 3.0 音乐平台：Muverse 简单介绍](https://einverne.github.io/post/2023/03/muverse.html)
-- [邮件发送服务 MXRoute 使用体验](https://einverne.github.io/post/2023/03/mxroute-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
