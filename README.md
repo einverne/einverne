@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT 打字机显示效果的背后：Server-sent Events 介绍](https://einverne.github.io/post/2023/04/behind-chatgpt-server-sent-events.html)
 - [Chatwoot Nignx 代理丢失 Header 信息](https://einverne.github.io/post/2023/04/chatwoot-nginx-header-underscore.html)
 - [Proxmox VE 安装 Ubuntu Server 22.04](https://einverne.github.io/post/2023/04/proxmox-install-ubuntu-server-22-04.html)
 - [Sieve 一个过滤邮件的语言](https://einverne.github.io/post/2023/04/sieve-mail-filter-languange.html)
 - [Raycast AI 使用体验](https://einverne.github.io/post/2023/04/raycast-ai-usage.html)
-- [LangChain 是什么](https://einverne.github.io/post/2023/04/langchain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
