@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [在 HestiaCP 面板中禁用 open_basedir 配置](https://einverne.github.io/post/2023/04/disable-open-basedir-function-in-hestia-contro-panel.html)
 - [CrossBox 使用记录](https://einverne.github.io/post/2023/04/crossbox-review.html)
+- [《How to Invest》 读书笔记](https://einverne.github.io/post/2023/04/how-to-invest-masters-on-the-craft.html)
 - [ChatGPT 打字机显示效果的背后：Server-sent Events 介绍](https://einverne.github.io/post/2023/04/behind-chatgpt-server-sent-events.html)
 - [在 Hestia CP 的 VPS 上安装 ionCube Loader](https://einverne.github.io/post/2023/04/installing-ioncube-loader-with-hestiacp.html)
-- [Chatwoot Nignx 代理丢失 Header 信息](https://einverne.github.io/post/2023/04/chatwoot-nginx-header-underscore.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
