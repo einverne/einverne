@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Drift 一个开源可以自托管的 Gist](https://einverne.github.io/post/2023/05/drift-an-open-source-alternative-gist.html)
 - [EV Hosting 域名注册服务](https://einverne.github.io/post/2023/05/ev-hosting-domain-registrar.html)
 - [Stock Event 应用使用体验](https://einverne.github.io/post/2023/05/stock-event-review.html)
 - [在 HestiaCP 面板中禁用 open_basedir 配置](https://einverne.github.io/post/2023/04/disable-open-basedir-function-in-hestia-contro-panel.html)
 - [CrossBox 使用记录](https://einverne.github.io/post/2023/04/crossbox-review.html)
-- [《How to Invest》 读书笔记](https://einverne.github.io/post/2023/04/how-to-invest-masters-on-the-craft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
