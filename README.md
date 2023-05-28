@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [macOS 自定义系统设置记录](https://einverne.github.io/post/2023/05/macbook-system-settings.html)
+- [EV Hosting 共享邮件服务](https://einverne.github.io/post/2023/05/ev-hosting-shared-mail-hosting.html)
 - [《非暴力沟通》读书笔记](https://einverne.github.io/post/2023/05/nonviolent-communication.html)
 - [Drift 一个开源可以自托管的 Gist](https://einverne.github.io/post/2023/05/drift-an-open-source-alternative-gist.html)
 - [Google Analytics 代替产品对比](https://einverne.github.io/post/2023/05/google-analytics-alternative.html)
-- [自建 IT tools 一系列常用工具集](https://einverne.github.io/post/2023/05/it-tools-useful-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
