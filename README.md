@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [推荐几个英语学习工具](https://einverne.github.io/post/2023/06/english-learning-tools.html)
 - [macOS 上的清理工具整理合集](https://einverne.github.io/post/2023/06/macos-cleaner-apps.html)
 - [使用 Listmonk 搭建自己的 Newsletter](https://einverne.github.io/post/2023/06/listmonk-open-source-newsletter-mailing-list-manager.html)
 - [我买了一个 Ledger Nano S Plus](https://einverne.github.io/post/2023/06/i-bought-a-ledger-nano-s-plus.html)
 - [《美国大萧条》读书笔记](https://einverne.github.io/post/2023/05/the-great-depression.html)
-- [macOS 自定义系统设置记录](https://einverne.github.io/post/2023/05/macbook-system-settings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
