@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [macOS 下利用 Karabiner Elements 修改日本 JIS 键盘布局到美式键盘布局](https://einverne.github.io/post/2023/06/karabiner-elements-change-jis-keyboard-to-us-layout.html)
 - [推荐几个英语学习工具](https://einverne.github.io/post/2023/06/english-learning-tools.html)
 - [macOS 上的清理工具整理合集](https://einverne.github.io/post/2023/06/macos-cleaner-apps.html)
 - [使用 Listmonk 搭建自己的 Newsletter](https://einverne.github.io/post/2023/06/listmonk-open-source-newsletter-mailing-list-manager.html)
 - [我买了一个 Ledger Nano S Plus](https://einverne.github.io/post/2023/06/i-bought-a-ledger-nano-s-plus.html)
-- [macOS 上好用的 ChatGPT 客户端整理](https://einverne.github.io/post/2023/06/macos-chatgpt-app.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
