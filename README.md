@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [开源的数据分析工具 Metabase](https://einverne.github.io/post/2023/07/metabase.html)
 - [修复 Ledger Nano X 转轴松垮问题](https://einverne.github.io/post/2023/06/ledger-nano-x-hinge-loose.html)
 - [Tana 使用体验](https://einverne.github.io/post/2023/06/tana-note.html)
 - [macOS 下利用 Karabiner Elements 修改日本 JIS 键盘布局到美式键盘布局](https://einverne.github.io/post/2023/06/karabiner-elements-change-jis-keyboard-to-us-layout.html)
 - [推荐几个英语学习工具](https://einverne.github.io/post/2023/06/english-learning-tools.html)
-- [macOS 上的清理工具整理合集](https://einverne.github.io/post/2023/06/macos-cleaner-apps.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
