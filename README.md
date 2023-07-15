@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [端到端加密邮箱 Skiff 邮箱使用体验](https://einverne.github.io/post/2023/07/skiff-mail.html)
+- [让 AI 无处不在](https://einverne.github.io/post/2023/07/ai-everywhere-in-daily-life.html)
 - [开源的数据分析工具 Metabase](https://einverne.github.io/post/2023/07/metabase.html)
 - [使用 k6 做一次负载性能测试](https://einverne.github.io/post/2023/07/k6-load-testing.html)
 - [修复 Ledger Nano X 转轴松垮问题](https://einverne.github.io/post/2023/06/ledger-nano-x-hinge-loose.html)
-- [Tana 使用体验](https://einverne.github.io/post/2023/06/tana-note.html)
-- [macOS 下利用 Karabiner Elements 修改日本 JIS 键盘布局到美式键盘布局](https://einverne.github.io/post/2023/06/karabiner-elements-change-jis-keyboard-to-us-layout.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
