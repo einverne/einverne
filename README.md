@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [端到端加密邮箱 Skiff 邮箱使用体验](https://einverne.github.io/post/2023/07/skiff-mail.html)
 - [让 AI 无处不在](https://einverne.github.io/post/2023/07/ai-everywhere-in-daily-life.html)
+- [《每周工作 4 小时》读书笔记 - 寻找生活工作的平衡](https://einverne.github.io/post/2023/07/the-4-hour-work-week.html)
 - [开源的数据分析工具 Metabase](https://einverne.github.io/post/2023/07/metabase.html)
 - [使用 k6 做一次负载性能测试](https://einverne.github.io/post/2023/07/k6-load-testing.html)
-- [修复 Ledger Nano X 转轴松垮问题](https://einverne.github.io/post/2023/06/ledger-nano-x-hinge-loose.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
