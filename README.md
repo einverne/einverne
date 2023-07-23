@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lossless Cut 使用记录](https://einverne.github.io/post/2023/07/lossless-cut.html)
 - [使用 k3sup 快速安装 k3s](https://einverne.github.io/post/2023/07/use-k3sup-install-kubernetes.html)
 - [端到端加密邮箱 Skiff 邮箱使用体验](https://einverne.github.io/post/2023/07/skiff-mail.html)
 - [让 AI 无处不在](https://einverne.github.io/post/2023/07/ai-everywhere-in-daily-life.html)
 - [《每周工作 4 小时》读书笔记 - 寻找生活工作的平衡](https://einverne.github.io/post/2023/07/the-4-hour-work-week.html)
-- [开源的数据分析工具 Metabase](https://einverne.github.io/post/2023/07/metabase.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
