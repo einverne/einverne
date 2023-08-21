@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [PT 站点一键转载脚本 easy-upload](https://einverne.github.io/post/2023/08/easy-upload-pt-tools.html)
+- [使用 Trancy 和 AI 在线练习口语](https://einverne.github.io/post/2023/08/practice-oral-english-online-by-using-trancy.html)
 - [将 Evernote 笔记导入到 Obsidian](https://einverne.github.io/post/2023/08/evernote-to-obsidian.html)
 - [Blaze 一个在局域网中点对点传输的网站](https://einverne.github.io/post/2023/07/blaze-p2p-file-sharing-web-app.html)
 - [Lossless Cut 使用记录](https://einverne.github.io/post/2023/07/lossless-cut.html)
-- [使用 k3sup 快速安装 k3s](https://einverne.github.io/post/2023/07/use-k3sup-install-kubernetes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
