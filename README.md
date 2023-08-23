@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [华泰证券一世全免](https://einverne.github.io/post/2023/08/zhangleglobal-new-account-free-commission.html)
 - [PT 站点一键转载脚本 easy-upload](https://einverne.github.io/post/2023/08/easy-upload-pt-tools.html)
 - [使用 Trancy 和 AI 在线练习口语](https://einverne.github.io/post/2023/08/practice-oral-english-online-by-using-trancy.html)
 - [将 Evernote 笔记导入到 Obsidian](https://einverne.github.io/post/2023/08/evernote-to-obsidian.html)
 - [Blaze 一个在局域网中点对点传输的网站](https://einverne.github.io/post/2023/07/blaze-p2p-file-sharing-web-app.html)
-- [Lossless Cut 使用记录](https://einverne.github.io/post/2023/07/lossless-cut.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
