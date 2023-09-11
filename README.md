@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [zlibrary 使用技巧](https://einverne.github.io/post/2023/09/zlibrary-usage.html)
 - [《日本的细节》读书笔记](https://einverne.github.io/post/2023/08/japan-details.html)
 - [结合 WordPress 快速分享 Obsidian 中的笔记](https://einverne.github.io/post/2023/08/publish-obsidian-post-to-wordpress.html)
 - [华泰证券一世全免](https://einverne.github.io/post/2023/08/zhangleglobal-new-account-free-commission.html)
 - [PT 站点一键转载脚本 easy-upload](https://einverne.github.io/post/2023/08/easy-upload-pt-tools.html)
-- [uBlock Origin 一个高效的网页内容拦截器](https://einverne.github.io/post/2023/08/ublock-origin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
