@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Omnivore 一款开源的稍后阅读服务](https://einverne.github.io/post/2023/09/omnivore.html)
 - [我买了一块 1TB 的便携移动硬盘 三星 T7](https://einverne.github.io/post/2023/09/i-bought-a-samsung-ssd-disk-t7-1t.html)
 - [对象存储服务提供商提供的免费存储容量](https://einverne.github.io/post/2023/09/free-object-based-storage-providers.html)
 - [反查一个域名的所有子域名](https://einverne.github.io/post/2023/09/subdomain-scanner.html)
 - [使用 Dokku 构建属于你自己的 PaaS](https://einverne.github.io/post/2023/09/dokku-minimum-paas.html)
-- [zlibrary 使用技巧](https://einverne.github.io/post/2023/09/zlibrary-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
