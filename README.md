@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [在 Mac M1 下使用 VMware Fusion 安装 Windows 11 跳过网络](https://einverne.github.io/post/2023/10/vmware-fusion-install-windows-11-skip-network.html)
 - [《小而美》读书笔记](https://einverne.github.io/post/2023/09/the-minimalist-entrepreneur.html)
 - [Omnivore 一款开源的稍后阅读服务](https://einverne.github.io/post/2023/09/omnivore.html)
 - [我买了一块 1TB 的便携移动硬盘 三星 T7](https://einverne.github.io/post/2023/09/i-bought-a-samsung-ssd-disk-t7-1t.html)
 - [对象存储服务提供商提供的免费存储容量](https://einverne.github.io/post/2023/09/free-object-based-storage-providers.html)
-- [反查一个域名的所有子域名](https://einverne.github.io/post/2023/09/subdomain-scanner.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
