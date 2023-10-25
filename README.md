@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MacBook 16 寸连接外接显示器 CPU kernel_task 占用极高问题解决](https://einverne.github.io/post/2023/10/mac-external-display-cpu-high.html)
+- [推荐几个 Android 远程控制应用](https://einverne.github.io/post/2023/10/recommend-android-remote-app.html)
+- [Vimium 教程：使用键盘来浏览网页](https://einverne.github.io/post/2023/10/vimium-chrome-extension.html)
 - [在 Mac M1 下使用 VMware Fusion 安装 Windows 11 跳过网络](https://einverne.github.io/post/2023/10/vmware-fusion-install-windows-11-skip-network.html)
 - [《小而美》读书笔记](https://einverne.github.io/post/2023/09/the-minimalist-entrepreneur.html)
-- [Omnivore 一款开源的稍后阅读服务](https://einverne.github.io/post/2023/09/omnivore.html)
-- [我买了一块 1TB 的便携移动硬盘 三星 T7](https://einverne.github.io/post/2023/09/i-bought-a-samsung-ssd-disk-t7-1t.html)
-- [对象存储服务提供商提供的免费存储容量](https://einverne.github.io/post/2023/09/free-object-based-storage-providers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
