@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 uBlock Origin 拦截 YouTube 广告](https://einverne.github.io/post/2023/10/use-ublock-origin-to-block-youtube-ads.html)
 - [MacBook 16 寸连接外接显示器 CPU kernel_task 占用极高问题解决](https://einverne.github.io/post/2023/10/mac-external-display-cpu-high.html)
 - [推荐几个 Android 远程控制应用](https://einverne.github.io/post/2023/10/recommend-android-remote-app.html)
 - [Vimium 教程：使用键盘来浏览网页](https://einverne.github.io/post/2023/10/vimium-chrome-extension.html)
 - [在 Mac M1 下使用 VMware Fusion 安装 Windows 11 跳过网络](https://einverne.github.io/post/2023/10/vmware-fusion-install-windows-11-skip-network.html)
-- [《小而美》读书笔记](https://einverne.github.io/post/2023/09/the-minimalist-entrepreneur.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
