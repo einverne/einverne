@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [新加坡华侨银行 OCBC 开户记录](https://einverne.github.io/post/2023/11/ocbc.html)
+- [面向开发者的垂直搜索引擎](https://einverne.github.io/post/2023/11/devv-ai.html)
 - [解决 OpenAI insufficient_quota 问题](https://einverne.github.io/post/2023/11/fix-openai-insufficient-quota.html)
 - [在阅读中认识更多的单词 Relingo 插件使用](https://einverne.github.io/post/2023/11/relingo.html)
 - [NextCloud macOS 客户端修改服务端地址](https://einverne.github.io/post/2023/10/nextcloud-mac-os-change-server-url.html)
-- [使用 uBlock Origin 拦截 YouTube 广告](https://einverne.github.io/post/2023/10/use-ublock-origin-to-block-youtube-ads.html)
-- [MacBook 16 寸连接外接显示器 CPU kernel_task 占用极高问题解决](https://einverne.github.io/post/2023/10/mac-external-display-cpu-high.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
