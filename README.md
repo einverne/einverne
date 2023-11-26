@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [《被讨厌的勇气》读书笔记](https://einverne.github.io/post/2023/11/adler-courage.html)
+- [为播客爱好者制作的工具 Podwise](https://einverne.github.io/post/2023/11/app-for-podcast-lover-podwise.html)
 - [修复 macOS 时区和时间错误](https://einverne.github.io/post/2023/11/macos-wrong-datetime-zone.html)
 - [在日本申请 Revolut 数字银行](https://einverne.github.io/post/2023/11/revolut-japan.html)
 - [你的私人云操作系统：Neverinstall 使用体验](https://einverne.github.io/post/2023/11/your-personal-cloud-computer-neverinstall.html)
-- [新加坡华侨银行 OCBC 开户记录](https://einverne.github.io/post/2023/11/ocbc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
