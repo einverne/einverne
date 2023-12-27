@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [语言能力分级系统 CEFR](https://einverne.github.io/post/2023/12/english-test-cefr-c1.html)
+- [React 学习笔记之了解 React](https://einverne.github.io/post/2023/12/react-introduction.html)
 - [面向编程的 AI 搜索引擎：phind](https://einverne.github.io/post/2023/12/phind.html)
 - [时隔 5 年再安装 NextCloud](https://einverne.github.io/post/2023/11/docker-install-nextcloud-config.html)
 - [使用 SyncTV 异地远程一起看视频](https://einverne.github.io/post/2023/11/synctv.html)
-- [《被讨厌的勇气》读书笔记](https://einverne.github.io/post/2023/11/adler-courage.html)
-- [为播客爱好者制作的工具 Podwise](https://einverne.github.io/post/2023/11/app-for-podcast-lover-podwise.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
