@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [我购买了一台 Apple TV](https://einverne.github.io/post/2024/01/i-bought-an-apple-tv.html)
 - [语言能力分级系统 CEFR](https://einverne.github.io/post/2023/12/english-test-cefr-c1.html)
 - [React 学习笔记之了解 React](https://einverne.github.io/post/2023/12/react-introduction.html)
 - [面向编程的 AI 搜索引擎：phind](https://einverne.github.io/post/2023/12/phind.html)
 - [时隔 5 年再安装 NextCloud](https://einverne.github.io/post/2023/11/docker-install-nextcloud-config.html)
-- [使用 SyncTV 异地远程一起看视频](https://einverne.github.io/post/2023/11/synctv.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
