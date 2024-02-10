@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [FocuSee 屏幕录制工具使用体验](https://einverne.github.io/post/2024/02/focusee-introduction.html)
+- [MVP 最小可实行产品思想](https://einverne.github.io/post/2024/01/minimum-viable-product.html)
 - [我购买了一台 Apple TV](https://einverne.github.io/post/2024/01/i-bought-an-apple-tv.html)
 - [Datadog 日志搜索语法总结](https://einverne.github.io/post/2024/01/datadog-log-search-syntax.html)
 - [AdGuard Home 53 端口占用问题解决](https://einverne.github.io/post/2024/01/adguard-home-53-port-systemd-resolve.html)
-- [语言能力分级系统 CEFR](https://einverne.github.io/post/2023/12/english-test-cefr-c1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
