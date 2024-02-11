@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [每天学习一个命令：高级日志查看工具 lnav](https://einverne.github.io/post/2024/02/the-logfile-navigator-lnav.html)
+- [使用 rclone 批量备份及备份到 Cloudflare R2](https://einverne.github.io/post/2024/02/rclone-copy-cloudflare-r2.html)
 - [FocuSee 屏幕录制工具使用体验](https://einverne.github.io/post/2024/02/focusee-introduction.html)
 - [MVP 最小可实行产品思想](https://einverne.github.io/post/2024/01/minimum-viable-product.html)
 - [我购买了一台 Apple TV](https://einverne.github.io/post/2024/01/i-bought-an-apple-tv.html)
-- [Datadog 日志搜索语法总结](https://einverne.github.io/post/2024/01/datadog-log-search-syntax.html)
-- [AdGuard Home 53 端口占用问题解决](https://einverne.github.io/post/2024/01/adguard-home-53-port-systemd-resolve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
