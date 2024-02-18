@@ -15,9 +15,9 @@
 <a href="https://www.douban.com/people/einverne" target="_blank"><img align="center" src="images/douban.svg" alt="douban einverne" height="30" width="40" /></a>
 <a href="https://homer.einverne.info" target="_blank"><img align="center" src="images/homer.svg" alt="einverne online services" height="30" width="40" /></a>
 
-### 📊 This week I spent my time on
+### 📊 Last year I spent my time on
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=einverne&api_domain=wakapi.einverne.info&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&layout=compact)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=einverne&api_domain=wakapi.einverne.info&hide_title=true&hide_border=true&langs_count=18&bg_color=00000000&text_color=777&layout=compact)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
