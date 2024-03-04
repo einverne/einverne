@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [我制作了一档播客《暮色时光》](https://einverne.github.io/post/2024/03/i-made-a-podcast.html)
 - [几个用户登录验证方案](https://einverne.github.io/post/2024/02/user-login-auth-solutions.html)
 - [总结一下 Fediverse 下的有趣的平台](https://einverne.github.io/post/2024/02/fediverse.html)
 - [我在权益投资市场中犯过的几个错误](https://einverne.github.io/post/2024/02/a-few-mistakes-i-made-in-the-equity-market.html)
 - [新加坡盈立证券开户及通过 OCBC 入金](https://einverne.github.io/post/2024/02/usmart-securities-firm.html)
-- [使用 PlanetScale 以及 Docker 搭建网站分析 Umami](https://einverne.github.io/post/2024/02/umami-planetscale-web-analytics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
