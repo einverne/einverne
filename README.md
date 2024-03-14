@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [长桥证券开户及入金介绍](https://einverne.github.io/post/2024/03/longbridge.html)
+- [记录一次令人无语的文件上传限制调试](https://einverne.github.io/post/2024/03/hestiacp-wordpress-file-limit-cloudflare-100mb.html)
+- [常见的邮件发送错误](https://einverne.github.io/post/2024/03/common-email-error.html)
 - [EV Hosting 独立开发者套餐](https://einverne.github.io/post/2024/03/indie-tools.html)
-- [借助 BLEUnlock 实现 macOS 自动锁定](https://einverne.github.io/post/2024/03/mac-lock-screen-bleunlock.html)
-- [我制作了一档播客《暮色时光》](https://einverne.github.io/post/2024/03/i-made-a-podcast.html)
-- [几个用户登录验证方案](https://einverne.github.io/post/2024/02/user-login-auth-solutions.html)
-- [总结一下 Fediverse 下的有趣的平台](https://einverne.github.io/post/2024/02/fediverse.html)
+- [将 Blogger 备份并转成 Markdown 导入 Obsidian](https://einverne.github.io/post/2024/03/blogger-backup-markdown.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
