@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [基于表格的无代码数据库 Teable 介绍](https://einverne.github.io/post/2024/03/teable-introduction.html)
 - [聊一聊 Devin 第一个完全自主的 AI 工程师](https://einverne.github.io/post/2024/03/devin-first-ai-software-engineer.html)
 - [长桥证券开户及入金介绍](https://einverne.github.io/post/2024/03/longbridge.html)
 - [记录一次令人无语的文件上传限制调试](https://einverne.github.io/post/2024/03/hestiacp-wordpress-file-limit-cloudflare-100mb.html)
 - [常见的邮件发送错误](https://einverne.github.io/post/2024/03/common-email-error.html)
-- [EV Hosting 独立开发者套餐](https://einverne.github.io/post/2024/03/indie-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
