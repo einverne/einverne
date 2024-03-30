@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 语言编写的网络穿透工具 chisel](https://einverne.github.io/post/2024/03/chisel-tcp-udp-over-http.html)
 - [使用 Bunny CDN 加速你的网站](https://einverne.github.io/post/2024/03/bunny-cdn-speed-up-your-site.html)
 - [绕过付费墙](https://einverne.github.io/post/2024/03/bypass-paywalls.html)
 - [基于表格的无代码数据库 Teable 介绍](https://einverne.github.io/post/2024/03/teable-introduction.html)
 - [聊一聊 Devin 第一个完全自主的 AI 工程师](https://einverne.github.io/post/2024/03/devin-first-ai-software-engineer.html)
-- [长桥证券开户及入金介绍](https://einverne.github.io/post/2024/03/longbridge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
