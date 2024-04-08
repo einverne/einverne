@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Shell 让 AI 在命令行下提供 Shell 命令](https://einverne.github.io/post/2024/04/ai-shell-suggest-in-command-line.html)
+- [最棒的 Navidrome 音乐客户端 Sonixd&lpar;Feishin&rpar;](https://einverne.github.io/post/2024/04/best-navidrome-player-sonixd-feishin.html)
 - [中心化加密货币交易所 Gate 注册以及认证](https://einverne.github.io/post/2024/03/gate-introduction.html)
+- [不重启的情况下重新加载 rTorrent 配置文件](https://einverne.github.io/post/2024/03/reload-rtorrent-configuration-without-restart.html)
 - [Go 语言编写的网络穿透工具 chisel](https://einverne.github.io/post/2024/03/chisel-tcp-udp-over-http.html)
-- [使用 Bunny CDN 加速你的网站](https://einverne.github.io/post/2024/03/bunny-cdn-speed-up-your-site.html)
-- [绕过付费墙](https://einverne.github.io/post/2024/03/bypass-paywalls.html)
-- [基于表格的无代码数据库 Teable 介绍](https://einverne.github.io/post/2024/03/teable-introduction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
