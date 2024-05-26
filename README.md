@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [远程工作的网站分享](https://einverne.github.io/post/2024/05/remote-job-websites.html)
 - [Glance 个人自定义 Dashboard](https://einverne.github.io/post/2024/05/glance-personal-dashboard.html)
 - [Fileball 一款 iOS tvOS 上的媒体播放器及文件管理器](https://einverne.github.io/post/2024/04/fileball-ios-video-player.html)
 - [在日本申请入台证材料及在线提交注意事项](https://einverne.github.io/post/2024/04/apply-taiwan-entry-and-exit-permit-in-japan.html)
 - [从 Buffer 消费图学习 CCPM 项目管理方法](https://einverne.github.io/post/2024/04/ccpm-buffer.html)
-- [AI Shell 让 AI 在命令行下提供 Shell 命令](https://einverne.github.io/post/2024/04/ai-shell-suggest-in-command-line.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
