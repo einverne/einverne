@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Homerow 使用 Vimium 的方式控制 macOS](https://einverne.github.io/post/2024/05/homerow.html)
+- [如何避免 MySQL 因为内存不足被系统 Kill](https://einverne.github.io/post/2024/05/mysql-oom-kill.html)
+- [微信一次性发送超过 9 张照片](https://einverne.github.io/post/2024/05/wechat-send-over-nine-photos.html)
 - [ProxMobo 一款 Proxmox VE 管理客户端](https://einverne.github.io/post/2024/05/proxmobo-proxmox-ve-management-tool.html)
 - [推荐一款 macOS 上的极简菜单栏提醒](https://einverne.github.io/post/2024/05/reminders-menubar.html)
-- [远程工作的网站分享](https://einverne.github.io/post/2024/05/remote-job-websites.html)
-- [Glance 个人自定义 Dashboard](https://einverne.github.io/post/2024/05/glance-personal-dashboard.html)
-- [Fileball 一款 iOS tvOS 上的媒体播放器及文件管理器](https://einverne.github.io/post/2024/04/fileball-ios-video-player.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
