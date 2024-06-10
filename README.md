@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS 泄漏以及如何防止](https://einverne.github.io/post/2024/06/dns-leak.html)
 - [从内地到香港出金最佳的方法](https://einverne.github.io/post/2024/06/money-to-hong-kong.html)
 - [Homerow 使用 Vimium 的方式控制 macOS](https://einverne.github.io/post/2024/05/homerow.html)
 - [如何避免 MySQL 因为内存不足被系统 Kill](https://einverne.github.io/post/2024/05/mysql-oom-kill.html)
 - [微信一次性发送超过 9 张照片](https://einverne.github.io/post/2024/05/wechat-send-over-nine-photos.html)
-- [ProxMobo 一款 Proxmox VE 管理客户端](https://einverne.github.io/post/2024/05/proxmobo-proxmox-ve-management-tool.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
