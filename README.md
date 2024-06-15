@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [期权策略：Bull Call Spread](https://einverne.github.io/post/2024/06/bull-call-spread.html)
 - [使用 Quartz 发布 Obsidian 笔记库](https://einverne.github.io/post/2024/06/quartz-obsidian-publish.html)
 - [爱沙尼亚电子居民申请记录](https://einverne.github.io/post/2024/06/estonia-e-residency.html)
 - [DNS 泄漏以及如何防止](https://einverne.github.io/post/2024/06/dns-leak.html)
 - [从内地到香港出金最佳的方法](https://einverne.github.io/post/2024/06/money-to-hong-kong.html)
-- [Homerow 使用 Vimium 的方式控制 macOS](https://einverne.github.io/post/2024/05/homerow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
