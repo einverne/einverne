@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [在阅读时借助 Yomichan 将日语单词一键保存到 Anki](https://einverne.github.io/post/2024/07/yomichan-anki.html)
+- [记一次磁盘日志满导致 Redis AOF 文件格式错误的问题](https://einverne.github.io/post/2024/06/redis-crash-aof-file-broken.html)
 - [Voicenotes 一款 AI 语音笔记应用](https://einverne.github.io/post/2024/06/voicenotes.html)
 - [Apple silicon M 系列芯片区别及购买推荐](https://einverne.github.io/post/2024/06/apple-silicon-buyer-guide.html)
 - [Felo 一款实时同声传译应用](https://einverne.github.io/post/2024/06/felo-translator.html)
-- [期权策略：Bull Call Spread](https://einverne.github.io/post/2024/06/bull-call-spread.html)
-- [使用 Quartz 发布 Obsidian 笔记库](https://einverne.github.io/post/2024/06/quartz-obsidian-publish.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
