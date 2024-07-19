@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [泰国 DTV 数字游民签证](https://einverne.github.io/post/2024/07/thailand-dtv-visa.html)
 - [VoceChat 一款可以自托管的在线聊天室](https://einverne.github.io/post/2024/07/vocechat-online-chat-room.html)
 - [结合了 Google 和 AI 的对话搜索引擎：Perplexity AI](https://einverne.github.io/post/2024/07/perplexity-ai-usage.html)
 - [在阅读时借助 Yomichan 将日语单词一键保存到 Anki](https://einverne.github.io/post/2024/07/yomichan-anki.html)
 - [通过 Mighty Networks 构建专属在线社区](https://einverne.github.io/post/2024/06/mighty-networks-build-community.html)
-- [记一次磁盘日志满导致 Redis AOF 文件格式错误的问题](https://einverne.github.io/post/2024/06/redis-crash-aof-file-broken.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
