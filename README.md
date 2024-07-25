@@ -24,8 +24,8 @@
 - [泰国 DTV 数字游民签证](https://einverne.github.io/post/2024/07/thailand-dtv-visa.html)
 - [VoceChat 一款可以自托管的在线聊天室](https://einverne.github.io/post/2024/07/vocechat-online-chat-room.html)
 - [结合了 Google 和 AI 的对话搜索引擎：Perplexity AI](https://einverne.github.io/post/2024/07/perplexity-ai-usage.html)
-- [在阅读时借助 Yomichan 将日语单词一键保存到 Anki](https://einverne.github.io/post/2024/07/yomichan-anki.html)
-- [通过 Mighty Networks 构建专属在线社区](https://einverne.github.io/post/2024/06/mighty-networks-build-community.html)
+- [macOS 迁移助手迁移后 Syncthing 设备 ID 相同问题解决方案](https://einverne.github.io/post/2024/07/after-macos-migration-syncthing-id-sama-solution.html)
+- [域名的生命周期](https://einverne.github.io/post/2024/07/domain-lifecycle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
