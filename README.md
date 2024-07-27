@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dinox 又一款 AI 语音实时转录工具](https://einverne.github.io/post/2024/07/dinox-voice-memo.html)
+- [音流：一款支持 Navidrom 兼容 Subsonic 的跨平台音乐播放器](https://einverne.github.io/post/2024/07/stream-music-navidrom-subsonic.html)
 - [泰国 DTV 数字游民签证](https://einverne.github.io/post/2024/07/thailand-dtv-visa.html)
 - [VoceChat 一款可以自托管的在线聊天室](https://einverne.github.io/post/2024/07/vocechat-online-chat-room.html)
 - [结合了 Google 和 AI 的对话搜索引擎：Perplexity AI](https://einverne.github.io/post/2024/07/perplexity-ai-usage.html)
-- [macOS 迁移助手迁移后 Syncthing 设备 ID 相同问题解决方案](https://einverne.github.io/post/2024/07/after-macos-migration-syncthing-id-sama-solution.html)
-- [域名的生命周期](https://einverne.github.io/post/2024/07/domain-lifecycle.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
