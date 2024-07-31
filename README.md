@@ -22,7 +22,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Dinox 又一款 AI 语音实时转录工具](https://einverne.github.io/post/2024/07/dinox-voice-memo.html)
-- [音流：一款支持 Navidrom 兼容 Subsonic 的跨平台音乐播放器](https://einverne.github.io/post/2024/07/stream-music-navidrom-subsonic.html)
+- [音流：一款支持 Navidrome 兼容 Subsonic 的跨平台音乐播放器](https://einverne.github.io/post/2024/07/stream-music-navidrom-subsonic.html)
 - [保加利亚电子钱包 MyFin 使用](https://einverne.github.io/post/2024/07/myfin-usage.html)
 - [泰国 DTV 数字游民签证](https://einverne.github.io/post/2024/07/thailand-dtv-visa.html)
 - [VoceChat 一款可以自托管的在线聊天室](https://einverne.github.io/post/2024/07/vocechat-online-chat-room.html)
