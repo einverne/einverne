@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 年台北之行](https://einverne.github.io/post/2024/08/trip-to-taipei.html)
 - [macOS 上的多栏文件管理器 QSpace](https://einverne.github.io/post/2024/07/qspace-multi-pane-finder.html)
 - [Dinox 又一款 AI 语音实时转录工具](https://einverne.github.io/post/2024/07/dinox-voice-memo.html)
 - [音流：一款支持 Navidrome 兼容 Subsonic 的跨平台音乐播放器](https://einverne.github.io/post/2024/07/stream-music-navidrom-subsonic.html)
 - [保加利亚电子钱包 MyFin 使用](https://einverne.github.io/post/2024/07/myfin-usage.html)
-- [泰国 DTV 数字游民签证](https://einverne.github.io/post/2024/07/thailand-dtv-visa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
