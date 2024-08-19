@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Telegram DOGS 提现](https://blog.einverne.info/post/2024/08/telegram-dogs-token.html)
 - [意大利数字游民签证介绍及办理材料](https://blog.einverne.info/post/2024/08/italy-digital-nomad-visa.html)
 - [2024 年台北之行](https://blog.einverne.info/post/2024/08/trip-to-taipei.html)
 - [macOS 上的多栏文件管理器 QSpace](https://blog.einverne.info/post/2024/07/qspace-multi-pane-finder.html)
 - [Dinox 又一款 AI 语音转录笔记](https://blog.einverne.info/post/2024/07/dinox-voice-memo.html)
-- [Emote 又一款 AI 语音笔记应用](https://blog.einverne.info/post/2024/07/emote-voice-notes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
