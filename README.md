@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [利用 macOS 的 LiveText 轻松复制视频文字实现观看韩综](https://blog.einverne.info/post/2024/09/macos-live-text-korean-tv-show.html)
 - [MemoAI 一款跨平台的语音视频转文字工具](https://blog.einverne.info/post/2024/09/memo-ai-audio-transcript.html)
 - [YPlayer 一款支持本地生成字幕的播放器](https://blog.einverne.info/post/2024/08/yplayer-ai-transcript-player.html)
 - [几大 AI 识图能力对比](https://blog.einverne.info/post/2024/08/ai-image-comparison.html)
 - [Rust 编写的开源全文搜索引擎 Meilisearch](https://blog.einverne.info/post/2024/08/meilisearch.html)
-- [一款无数据库在线笔记 Flatnotes](https://blog.einverne.info/post/2024/08/flatnotes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
