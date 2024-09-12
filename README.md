@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [通过聆听的方式看论文 Google Illuminate](https://blog.einverne.info/post/2024/09/illuminate-google.html)
+- [iPhone 重启之后照片丢失及解决方案](https://blog.einverne.info/post/2024/09/iphone-reboot-photo-missing.html)
 - [利用 macOS 的 LiveText 轻松复制视频文字实现观看韩综](https://blog.einverne.info/post/2024/09/macos-live-text-korean-tv-show.html)
-- [MemoAI 一款跨平台的语音视频转文字工具](https://blog.einverne.info/post/2024/09/memo-ai-audio-transcript.html)
-- [YPlayer 一款支持本地生成字幕的播放器](https://blog.einverne.info/post/2024/08/yplayer-ai-transcript-player.html)
-- [几大 AI 识图能力对比](https://blog.einverne.info/post/2024/08/ai-image-comparison.html)
-- [Rust 编写的开源全文搜索引擎 Meilisearch](https://blog.einverne.info/post/2024/08/meilisearch.html)
+- [OpenAI 的 Whisper 以及相关模型和项目](https://blog.einverne.info/post/2024/09/whisper-and-related.html)
+- [信银国际大湾区双币信用卡开卡及使用](https://blog.einverne.info/post/2024/09/citic-hk-credit-card.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
