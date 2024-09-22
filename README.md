@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EmotiVoice 网易开源的中英文 TTS 引擎](https://blog.einverne.info/post/2024/09/emotivoice.html)
 - [升级 Mastodon 从 4.1.19 至 4.2.x](https://blog.einverne.info/post/2024/09/mastodon-upgrade-from-4-1-19-to-4-2.html)
 - [自托管的开源视频分享平台 MediaCMS](https://blog.einverne.info/post/2024/09/mediacms.html)
 - [使用 pyVideoTrans 自动进行视频翻译及配音](https://blog.einverne.info/post/2024/09/pyvideotrans-audio-to-text-to-audio.html)
 - [通过聆听的方式看论文 Google Illuminate](https://blog.einverne.info/post/2024/09/illuminate-google.html)
-- [iPhone 重启之后照片丢失及解决方案](https://blog.einverne.info/post/2024/09/iphone-reboot-photo-missing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
