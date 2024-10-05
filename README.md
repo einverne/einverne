@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [爱沙尼亚电子公民身份启动及邮件转发](https://blog.einverne.info/post/2024/09/estonia-e-residency-activated-email-forward.html)
 - [使用 Tailscale Funnel 暴露本地服务](https://blog.einverne.info/post/2024/09/tailscale-funnel.html)
+- [我购买了一台懒猫微服](https://blog.einverne.info/post/2024/09/i-bought-lazycat.html)
+- [American Express 信用卡免费两年 MyUS Premium 会员](https://blog.einverne.info/post/2024/09/myus.html)
 - [微信香港钱包开通方法](https://blog.einverne.info/post/2024/09/wechat-hk-wallet.html)
-- [EmotiVoice 网易开源的中英文 TTS 引擎](https://blog.einverne.info/post/2024/09/emotivoice.html)
-- [升级 Mastodon 从 4.1.19 至 4.2.x](https://blog.einverne.info/post/2024/09/mastodon-upgrade-from-4-1-19-to-4-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
