@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VideoLingo：一键自动将视频翻译成中文字幕](https://blog.einverne.info/post/2024/10/videolingo.html)
 - [每天学习一个命令：wrk 单机性能测试工具](https://blog.einverne.info/post/2024/10/wrk-benchmark-tool.html)
 - [爱沙尼亚电子公民身份启动及邮件转发](https://blog.einverne.info/post/2024/09/estonia-e-residency-activated-email-forward.html)
 - [使用 Tailscale Funnel 暴露本地服务](https://blog.einverne.info/post/2024/09/tailscale-funnel.html)
 - [我购买了一台懒猫微服](https://blog.einverne.info/post/2024/09/i-bought-lazycat.html)
-- [American Express 信用卡免费两年 MyUS Premium 会员](https://blog.einverne.info/post/2024/09/myus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
