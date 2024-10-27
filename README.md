@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 初始化及单手操作设置](https://blog.einverne.info/post/2024/10/iphone-15-pro-max-setup.html)
 - [JustRecap 将视频转成图文](https://blog.einverne.info/post/2024/10/justrecap.html)
 - [语言：思想的边界和桥梁](https://blog.einverne.info/post/2024/10/language-border.html)
 - [VideoLingo：一键自动将视频翻译成中文字幕](https://blog.einverne.info/post/2024/10/videolingo.html)
 - [每天学习一个命令：wrk 单机性能测试工具](https://blog.einverne.info/post/2024/10/wrk-benchmark-tool.html)
-- [爱沙尼亚电子公民身份启动及邮件转发](https://blog.einverne.info/post/2024/09/estonia-e-residency-activated-email-forward.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
