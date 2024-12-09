@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic 开源 Model Context Protocol&lpar;MCP&rpar; 创建了 AI 和数据源的双向连接](https://blog.einverne.info/post/2024/12/anthropic-model-context-protocol.html)
 - [Windsurf 又一款 AI 智能编辑器](https://blog.einverne.info/post/2024/11/windsurf.html)
 - [Flowith 基于白板的 AI 工具](https://blog.einverne.info/post/2024/11/flowith-two-dimensional-canvas-ai-tool.html)
 - [个人订阅管理工具 Wallos](https://blog.einverne.info/post/2024/11/wallos.html)
 - [另一款开源美观的稍后阅读和书签管理工具 Hoarder](https://blog.einverne.info/post/2024/11/hoarder.html)
-- [全球旅行流量 Roamless eSIM 注册即送 5 美元余额](https://blog.einverne.info/post/2024/11/roamless-esim.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
