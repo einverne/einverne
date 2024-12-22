@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [利用 PirateShip 打单节省美国转运费用](https://blog.einverne.info/post/2024/12/pirateship.html)
 - [299 USD 买了一台 Google Piexl 9](https://blog.einverne.info/post/2024/12/299-usd-google-pixel-9.html)
 - [Mint Mobile 又一家美国移动网络运营商](https://blog.einverne.info/post/2024/12/mint-mobile.html)
 - [Anthropic 开源 Model Context Protocol&lpar;MCP&rpar; 创建了 AI 和数据源的双向连接](https://blog.einverne.info/post/2024/12/anthropic-model-context-protocol.html)
 - [Windsurf 又一款 AI 智能编辑器](https://blog.einverne.info/post/2024/11/windsurf.html)
-- [Flowith 基于白板的 AI 工具](https://blog.einverne.info/post/2024/11/flowith-two-dimensional-canvas-ai-tool.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
