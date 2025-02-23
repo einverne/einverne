@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Trae 字节推出的一款本地 AI 代码编辑器](https://blog.einverne.info/post/2025/01/trae-ide-from-bytedance.html)
-- [Tianji 开源的网站流量分析，服务监控系统](https://blog.einverne.info/post/2025/01/tianji-open-source-website-monitor-alert.html)
-- [Cline 强大的 AI 辅助编程工具](https://blog.einverne.info/post/2025/01/cline-ai-programming-cli.html)
-- [利用 PirateShip 打单节省美国转运费用](https://blog.einverne.info/post/2024/12/pirateship.html)
-- [299 USD 买了一台 Google Piexl 9](https://blog.einverne.info/post/2024/12/299-usd-google-pixel-9.html)
+- [将 Obsidian 配置成私人 AI 知识库](https://blog.einverne.info/post/2025/02/obsidian-personal-ai-knowledge-base.html)
+- [腾讯推出个人知识库产品 ima.copilot](https://blog.einverne.info/post/2025/02/tencent-ima-copilot.html)
+- [2025 苹果开发者帐号注册记录](https://blog.einverne.info/post/2025/02/apple-developer-account.html)
+- [国产大语言模型 DeepSeek 初识](https://blog.einverne.info/post/2025/01/deepseek.html)
+- [Google 发布的以图生图工具 Whisk](https://blog.einverne.info/post/2025/01/google-ai-whisk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
