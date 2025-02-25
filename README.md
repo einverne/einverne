@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OBS 配置多路推流 实现多平台同时直播](https://blog.einverne.info/post/2025/02/obs-multiple-rtmp-setup.html)
 - [将 Obsidian 配置成私人 AI 知识库](https://blog.einverne.info/post/2025/02/obsidian-personal-ai-knowledge-base.html)
 - [腾讯推出个人知识库产品 ima.copilot](https://blog.einverne.info/post/2025/02/tencent-ima-copilot.html)
+- [asdf 升级 0.16.0 问题记录](https://blog.einverne.info/post/2025/02/asdf-upgrade-0-16-0.html)
 - [2025 苹果开发者帐号注册记录](https://blog.einverne.info/post/2025/02/apple-developer-account.html)
-- [国产大语言模型 DeepSeek 初识](https://blog.einverne.info/post/2025/01/deepseek.html)
-- [Google 发布的以图生图工具 Whisk](https://blog.einverne.info/post/2025/01/google-ai-whisk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
