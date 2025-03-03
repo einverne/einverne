@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [多版本管理工具 mise 使用详解](https://blog.einverne.info/post/2025/03/mise.html)
 - [AI 时代我们是否还需要个人知识库](https://blog.einverne.info/post/2025/02/do-we-need-knowledge-base-in-ai-era.html)
 - [OBS 配置多路推流 实现多平台同时直播](https://blog.einverne.info/post/2025/02/obs-multiple-rtmp-setup.html)
 - [将 Obsidian 配置成私人 AI 知识库](https://blog.einverne.info/post/2025/02/obsidian-personal-ai-knowledge-base.html)
 - [腾讯推出个人知识库产品 ima.copilot](https://blog.einverne.info/post/2025/02/tencent-ima-copilot.html)
-- [asdf 升级 0.16.0 问题记录](https://blog.einverne.info/post/2025/02/asdf-upgrade-0-16-0.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
