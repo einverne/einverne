@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [开源 Kotlin ORM 框架 Exposed 使用说明](https://blog.einverne.info/post/2025/03/jetbrains-exposed-orm-framework.html)
+- [Open WebUI 基于网页的大语言交互界面及联网搜索配置](https://blog.einverne.info/post/2025/03/open-webui-search.html)
 - [多版本管理工具 mise 使用详解](https://blog.einverne.info/post/2025/03/mise.html)
-- [AI 时代我们是否还需要个人知识库](https://blog.einverne.info/post/2025/02/do-we-need-knowledge-base-in-ai-era.html)
-- [OBS 配置多路推流 实现多平台同时直播](https://blog.einverne.info/post/2025/02/obs-multiple-rtmp-setup.html)
-- [将 Obsidian 配置成私人 AI 知识库](https://blog.einverne.info/post/2025/02/obsidian-personal-ai-knowledge-base.html)
-- [腾讯推出个人知识库产品 ima.copilot](https://blog.einverne.info/post/2025/02/tencent-ima-copilot.html)
+- [从 Java 到 Kotlin](https://blog.einverne.info/post/2025/03/from-java-to-kotlin.html)
+- [搭建 Joplin 同步服务器](https://blog.einverne.info/post/2025/03/joplin-self-hosted-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
