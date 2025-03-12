@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Helm 使用](https://blog.einverne.info/post/2025/03/helm-usage.html)
+- [K8s 部署 TiDB](https://blog.einverne.info/post/2025/03/tidb.html)
 - [开源 Kotlin ORM 框架 Exposed 使用说明](https://blog.einverne.info/post/2025/03/jetbrains-exposed-orm-framework.html)
 - [Open WebUI 基于网页的大语言交互界面及联网搜索配置](https://blog.einverne.info/post/2025/03/open-webui-search.html)
 - [多版本管理工具 mise 使用详解](https://blog.einverne.info/post/2025/03/mise.html)
-- [从 Java 到 Kotlin](https://blog.einverne.info/post/2025/03/from-java-to-kotlin.html)
-- [搭建 Joplin 同步服务器](https://blog.einverne.info/post/2025/03/joplin-self-hosted-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
