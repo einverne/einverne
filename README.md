@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Homerow 配置 macOS 全键盘操作](https://blog.einverne.info/post/2025/03/homerow-mac-keyboard.html)
+- [自动化运维工具 Puppet 介绍](https://blog.einverne.info/post/2025/03/puppet.html)
 - [Gemini 2 的原生多模态图片生成](https://blog.einverne.info/post/2025/03/google-gemini-2-native-image-generation.html)
 - [Helm 使用](https://blog.einverne.info/post/2025/03/helm-usage.html)
 - [K8s 部署 TiDB](https://blog.einverne.info/post/2025/03/tidb.html)
-- [开源 Kotlin ORM 框架 Exposed 使用说明](https://blog.einverne.info/post/2025/03/jetbrains-exposed-orm-framework.html)
-- [Open WebUI 基于网页的大语言交互界面及联网搜索配置](https://blog.einverne.info/post/2025/03/open-webui-search.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
