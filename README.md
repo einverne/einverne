@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor Rules 为 AI 设限](https://blog.einverne.info/post/2025/04/cursor-rules.html)
 - [Flutter 教程系列一: freezed 使用](https://blog.einverne.info/post/2025/03/flutter-freezed-code-generator.html)
 - [RAG 简介](https://blog.einverne.info/post/2025/03/rag.html)
 - [Homerow 配置 macOS 全键盘操作](https://blog.einverne.info/post/2025/03/homerow-mac-keyboard.html)
 - [自动化运维工具 Puppet 介绍](https://blog.einverne.info/post/2025/03/puppet.html)
-- [Gemini 2 的原生多模态图片生成](https://blog.einverne.info/post/2025/03/google-gemini-2-native-image-generation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
