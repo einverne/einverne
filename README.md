@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claw Cloud Run 提供永久免费的服务器](https://blog.einverne.info/post/2025/04/claw-cloud-run.html)
 - [Google Agent2Agent 协议](https://blog.einverne.info/post/2025/04/google-agent2agent.html)
+- [HostHatch 私有网络配置记录](https://blog.einverne.info/post/2025/04/hosthatch-private-networking.html)
 - [Cursor Rules 为 AI 设限](https://blog.einverne.info/post/2025/04/cursor-rules.html)
 - [Flutter 教程系列一: freezed 使用](https://blog.einverne.info/post/2025/03/flutter-freezed-code-generator.html)
-- [RAG 简介](https://blog.einverne.info/post/2025/03/rag.html)
-- [Homerow 配置 macOS 全键盘操作](https://blog.einverne.info/post/2025/03/homerow-mac-keyboard.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
