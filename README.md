@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [在 K3s 搭建的 Kubernetes 集群中安装 Longhorn 存储解决方案](https://blog.einverne.info/post/2025/04/k3s-kubernetes-cluster-storage-with-longhorn.html)
 - [Claw Cloud Run 提供永久免费的服务器](https://blog.einverne.info/post/2025/04/claw-cloud-run.html)
 - [Lenny’s Newsletter 重磅福利：200 美元订阅换取 15000 美元 AI 工具包](https://blog.einverne.info/post/2025/04/lenny-newsletter-ai-packages.html)
 - [Google Agent2Agent 协议](https://blog.einverne.info/post/2025/04/google-agent2agent.html)
 - [HostHatch 私有网络配置记录](https://blog.einverne.info/post/2025/04/hosthatch-private-networking.html)
-- [Cursor Rules 为 AI 设限](https://blog.einverne.info/post/2025/04/cursor-rules.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
