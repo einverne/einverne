@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 Claw Cloud 免费部署 Gemini 反向代理教程](https://blog.einverne.info/post/2025/04/claw-cloud-run-gemini-proxy.html)
+- [K3s 部署 IT Tools 在线工具集](https://blog.einverne.info/post/2025/04/k3s-helm-install-it-tools.html)
 - [在 K8s 中安装 Cluster 集群](https://blog.einverne.info/post/2025/04/k3s-install-redis-cluster.html)
 - [在 K3s 搭建的 Kubernetes 集群中安装 Longhorn 存储解决方案](https://blog.einverne.info/post/2025/04/k3s-kubernetes-cluster-storage-with-longhorn.html)
 - [Claw Cloud Run 提供永久免费的服务器](https://blog.einverne.info/post/2025/04/claw-cloud-run.html)
-- [Lenny’s Newsletter 重磅福利：200 美元订阅换取 15000 美元 AI 工具包](https://blog.einverne.info/post/2025/04/lenny-newsletter-ai-packages.html)
-- [Google Agent2Agent 协议](https://blog.einverne.info/post/2025/04/google-agent2agent.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
