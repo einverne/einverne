@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [K3s 部署 Bitwarden](https://blog.einverne.info/post/2025/04/k3s-bitwarden.html)
 - [使用 Claw Cloud 免费部署 Gemini 反向代理教程](https://blog.einverne.info/post/2025/04/claw-cloud-run-gemini-proxy.html)
+- [K3s 中给节点添加标签并实现 Pod 调度控制](https://blog.einverne.info/post/2025/04/k3s-node-label.html)
 - [K3s 部署 IT Tools 在线工具集](https://blog.einverne.info/post/2025/04/k3s-helm-install-it-tools.html)
-- [在 K8s 中安装 Cluster 集群](https://blog.einverne.info/post/2025/04/k3s-install-redis-cluster.html)
-- [在 K3s 搭建的 Kubernetes 集群中安装 Longhorn 存储解决方案](https://blog.einverne.info/post/2025/04/k3s-kubernetes-cluster-storage-with-longhorn.html)
-- [Claw Cloud Run 提供永久免费的服务器](https://blog.einverne.info/post/2025/04/claw-cloud-run.html)
+- [在 K3s 中安装 Redis Cluster 集群](https://blog.einverne.info/post/2025/04/k3s-install-redis-cluster.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
