@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aqua Voice 利用语音转文字提升产出效率](https://blog.einverne.info/post/2025/05/aqua-voice-voice-to-text.html)
 - [HomeShare 让本地电脑文件夹成为文件分享服务器](https://blog.einverne.info/post/2025/05/homeshare-share-your-local-file.html)
 - [Dola 你的私人智能 AI 助手轻松管理日程](https://blog.einverne.info/post/2025/04/dola-ai-your-ai-assistant.html)
 - [K3s 部署 Bitwarden](https://blog.einverne.info/post/2025/04/k3s-bitwarden.html)
 - [使用 Claw Cloud 免费部署 Gemini 反向代理教程](https://blog.einverne.info/post/2025/04/claw-cloud-run-gemini-proxy.html)
-- [K3s 中给节点添加标签并实现 Pod 调度控制](https://blog.einverne.info/post/2025/04/k3s-node-label.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
