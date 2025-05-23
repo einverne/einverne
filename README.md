@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IBKR 使用教程系列之共同基金 ETF Replicator](https://blog.einverne.info/post/2025/05/ibkr-mutual-fund-etf-replicator.html)
+- [NameCrane 邮件托管服务体验：超大存储空间的终身邮箱解决方案](https://blog.einverne.info/post/2025/05/namecrane-business-email-provider.html)
+- [Google Stitch：AI 驱动的 UI 设计工具让创意快速成为现实](https://blog.einverne.info/post/2025/05/stitch-a-new-way-to-design.html)
 - [Spokenly macOS 上的语音转文字工具](https://blog.einverne.info/post/2025/05/spokenly-voice-dictation-on-device-whisper.html)
 - [Fider 用户反馈收集投票系统](https://blog.einverne.info/post/2025/05/fider.html)
-- [Aqua Voice 利用语音转文字提升产出效率](https://blog.einverne.info/post/2025/05/aqua-voice-voice-to-text.html)
-- [HomeShare 让本地电脑文件夹成为文件分享服务器](https://blog.einverne.info/post/2025/05/homeshare-share-your-local-file.html)
-- [Dola 你的私人智能 AI 助手轻松管理日程](https://blog.einverne.info/post/2025/04/dola-ai-your-ai-assistant.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
