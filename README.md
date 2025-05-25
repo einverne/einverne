@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [关于在 Docker 容器中如何优雅关闭 Java 应用的记录](https://blog.einverne.info/post/2025/05/docker-java-gracefully-stop.html)
+- [Zig 语言编写的开源终端 Ghostty](https://blog.einverne.info/post/2025/05/ghostty.html)
 - [IBKR 使用教程系列之共同基金 ETF Replicator](https://blog.einverne.info/post/2025/05/ibkr-mutual-fund-etf-replicator.html)
 - [NameCrane 邮件托管服务体验：超大存储空间的终身邮箱解决方案](https://blog.einverne.info/post/2025/05/namecrane-business-email-provider.html)
 - [Google Stitch：AI 驱动的 UI 设计工具让创意快速成为现实](https://blog.einverne.info/post/2025/05/stitch-a-new-way-to-design.html)
-- [Spokenly macOS 上的语音转文字工具](https://blog.einverne.info/post/2025/05/spokenly-voice-dictation-on-device-whisper.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
