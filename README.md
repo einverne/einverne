@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Uptime Kuma 清理 SQLite 数据库历史数据](https://blog.einverne.info/post/2025/06/uptime-kuma-clean-sqlite-db.html)
+- [kookey 美国静态住宅 IP](https://blog.einverne.info/post/2025/05/us-static-ip.html)
 - [Novita AI 面向 AI 开发者的 GPU 云平台](https://blog.einverne.info/post/2025/05/novita-ai-model-gpu-cloud.html)
 - [关于在 Docker 容器中如何优雅关闭 Java 应用的记录](https://blog.einverne.info/post/2025/05/docker-java-gracefully-stop.html)
 - [Zig 语言编写的开源终端 Ghostty](https://blog.einverne.info/post/2025/05/ghostty.html)
-- [IBKR 使用教程系列之共同基金 ETF Replicator](https://blog.einverne.info/post/2025/05/ibkr-mutual-fund-etf-replicator.html)
-- [NameCrane 邮件托管服务体验：超大存储空间的终身邮箱解决方案](https://blog.einverne.info/post/2025/05/namecrane-business-email-provider.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
