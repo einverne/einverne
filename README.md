@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [让 AI 来编写 Git 提交变更信息](https://blog.einverne.info/post/2025/06/ai-commits.html)
 - [Uptime Kuma 清理 SQLite 数据库历史数据](https://blog.einverne.info/post/2025/06/uptime-kuma-clean-sqlite-db.html)
+- [历史最低 29 美元通过 Northwest Registered Agent 注册美国公司](https://blog.einverne.info/post/2025/06/northwest-registered-agent-29-usd-form-llc.html)
 - [kookey 美国静态住宅 IP](https://blog.einverne.info/post/2025/05/us-static-ip.html)
 - [Novita AI 面向 AI 开发者的 GPU 云平台](https://blog.einverne.info/post/2025/05/novita-ai-model-gpu-cloud.html)
-- [关于在 Docker 容器中如何优雅关闭 Java 应用的记录](https://blog.einverne.info/post/2025/05/docker-java-gracefully-stop.html)
-- [Zig 语言编写的开源终端 Ghostty](https://blog.einverne.info/post/2025/05/ghostty.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
