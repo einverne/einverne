@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [让 AI 来编写 Git 提交变更信息](https://blog.einverne.info/post/2025/06/ai-commits.html)
+- [利用 SpecStory 记录每一次和 AI 的对话](https://blog.einverne.info/post/2025/06/specstory-save-ai-chat-history.html)
 - [Uptime Kuma 清理 SQLite 数据库历史数据](https://blog.einverne.info/post/2025/06/uptime-kuma-clean-sqlite-db.html)
-- [历史最低 29 美元通过 Northwest Registered Agent 注册美国公司](https://blog.einverne.info/post/2025/06/northwest-registered-agent-29-usd-form-llc.html)
-- [kookey 美国静态住宅 IP](https://blog.einverne.info/post/2025/05/us-static-ip.html)
-- [Novita AI 面向 AI 开发者的 GPU 云平台](https://blog.einverne.info/post/2025/05/novita-ai-model-gpu-cloud.html)
+- [Longhorn 备份到 S3 兼容存储](https://blog.einverne.info/post/2025/06/k8s-longhorn-backup.html)
+- [iOS 发布 Bundle ID 不可用问题](https://blog.einverne.info/post/2025/06/ios-bundle-id-not-available.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
