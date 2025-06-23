@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatWise 本地多模型支持的 AI 客户端](https://blog.einverne.info/post/2025/06/chatwise.html)
 - [让 AI 来编写 Git 提交变更信息](https://blog.einverne.info/post/2025/06/ai-commits.html)
 - [利用 SpecStory 记录每一次和 AI 的对话](https://blog.einverne.info/post/2025/06/specstory-save-ai-chat-history.html)
 - [Uptime Kuma 清理 SQLite 数据库历史数据](https://blog.einverne.info/post/2025/06/uptime-kuma-clean-sqlite-db.html)
 - [Longhorn 备份到 S3 兼容存储](https://blog.einverne.info/post/2025/06/k8s-longhorn-backup.html)
-- [iOS 发布 Bundle ID 不可用问题](https://blog.einverne.info/post/2025/06/ios-bundle-id-not-available.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
