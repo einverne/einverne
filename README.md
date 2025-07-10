@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code 编程助手使用总结](https://blog.einverne.info/post/2025/07/claude-code.html)
 - [Readdy：AI 驱动的交互设计工具](https://blog.einverne.info/post/2025/06/readdy-ai-build-page.html)
 - [利用 ClickUp 来管理你的任务](https://blog.einverne.info/post/2025/06/clickup-supercharge-your-productivity.html)
 - [Google Gemini CLI 使用初体验：命令行上的 AI 工作流引擎](https://blog.einverne.info/post/2025/06/google-gemini-cli.html)
 - [简洁高效的开源网络终端 Next Terminal](https://blog.einverne.info/post/2025/06/next-terminal.html)
-- [ChatWise 本地多模型支持的 AI 客户端](https://blog.einverne.info/post/2025/06/chatwise.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
