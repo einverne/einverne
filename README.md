@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [关于习惯养成和打破的科学](https://blog.einverne.info/post/2025/07/the-science-of-making-and-breaking-habits.html)
 - [Rancher 中创建 K3s 集群 CA 检查报错解决方案](https://blog.einverne.info/post/2025/07/rancher-system-agent-strict-ca-verification.html)
 - [LingQ：通过可理解输入学习语言](https://blog.einverne.info/post/2025/07/lingq.html)
 - [Amazon 推出 Kiro AI IDE 新一代 AI 辅助集成开发环境](https://blog.einverne.info/post/2025/07/kiro-ai-ide.html)
 - [SuperClaude 让 Claude Code 更专业更顺手](https://blog.einverne.info/post/2025/07/superclaude-enhance-claude-code.html)
-- [Ktor: Kotlin 下的异步网络编程框架](https://blog.einverne.info/post/2025/07/ktor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
