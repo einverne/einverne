@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claudia 可视化管理 Claude Code](https://blog.einverne.info/post/2025/08/claudia-gui-claude-code.html)
+- [Claude Code Sub Agent 功能说明](https://blog.einverne.info/post/2025/08/claude-code-sub-agent.html)
+- [远程控制 Claude Code 让 AI 一刻不停](https://blog.einverne.info/post/2025/08/claude-code-remote.html)
 - [为程序员而设计的屏幕共享服务：Screego](https://blog.einverne.info/post/2025/08/screego-screensharing-for-developers.html)
 - [关于习惯养成和打破的科学](https://blog.einverne.info/post/2025/07/the-science-of-making-and-breaking-habits.html)
-- [Rancher 中创建 K3s 集群 CA 检查报错解决方案](https://blog.einverne.info/post/2025/07/rancher-system-agent-strict-ca-verification.html)
-- [LingQ：通过可理解输入学习语言](https://blog.einverne.info/post/2025/07/lingq.html)
-- [Amazon 推出 Kiro AI IDE 新一代 AI 辅助集成开发环境](https://blog.einverne.info/post/2025/07/kiro-ai-ide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
