@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dia 浏览器初体验](https://blog.einverne.info/post/2025/08/dia-browser.html)
 - [Claudia 可视化管理 Claude Code](https://blog.einverne.info/post/2025/08/claudia-gui-claude-code.html)
 - [Claude Code Sub Agent 功能说明](https://blog.einverne.info/post/2025/08/claude-code-sub-agent.html)
 - [远程控制 Claude Code 让 AI 一刻不停](https://blog.einverne.info/post/2025/08/claude-code-remote.html)
 - [为程序员而设计的屏幕共享服务：Screego](https://blog.einverne.info/post/2025/08/screego-screensharing-for-developers.html)
-- [关于习惯养成和打破的科学](https://blog.einverne.info/post/2025/07/the-science-of-making-and-breaking-habits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
