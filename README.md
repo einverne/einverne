@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VibeTunnel 将终端带到浏览器 开启移动化 Vibe Coding](https://blog.einverne.info/post/2025/08/vibetunnel.html)
+- [Claude Autopilot：自动化 Claude Code 任务](https://blog.einverne.info/post/2025/08/claude-autopilot-add-task-to-queue.html)
 - [Dia 浏览器初体验](https://blog.einverne.info/post/2025/08/dia-browser.html)
 - [Claudia 可视化管理 Claude Code](https://blog.einverne.info/post/2025/08/claudia-gui-claude-code.html)
 - [Claude Code Sub Agent 功能说明](https://blog.einverne.info/post/2025/08/claude-code-sub-agent.html)
-- [远程控制 Claude Code 让 AI 一刻不停](https://blog.einverne.info/post/2025/08/claude-code-remote.html)
-- [为程序员而设计的屏幕共享服务：Screego](https://blog.einverne.info/post/2025/08/screego-screensharing-for-developers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
