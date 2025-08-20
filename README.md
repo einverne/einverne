@@ -23,9 +23,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Langfuse 使得 LLM 应用全链路可观测](https://blog.einverne.info/post/2025/08/langfuse.html)
 - [VibeTunnel 将终端带到浏览器 开启移动化 Vibe Coding](https://blog.einverne.info/post/2025/08/vibetunnel.html)
+- [Keel 基于 Kubernetes 的自动部署工具](https://blog.einverne.info/post/2025/08/keel-kubernetes-auto-deployment.html)
 - [Claude Autopilot：自动化 Claude Code 任务](https://blog.einverne.info/post/2025/08/claude-autopilot-add-task-to-queue.html)
 - [Dia 浏览器初体验](https://blog.einverne.info/post/2025/08/dia-browser.html)
-- [Claudia 可视化管理 Claude Code](https://blog.einverne.info/post/2025/08/claudia-gui-claude-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
