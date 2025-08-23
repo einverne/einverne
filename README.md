@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whispering 开源离线的语音转文字应用](https://blog.einverne.info/post/2025/08/whispering-open-source-offline-speech-text.html)
+- [Crystal: 多 Claude Code 实例管理器](https://blog.einverne.info/post/2025/08/crystal-multi-session-claude-code-manager.html)
+- [解决 Claude Code 上下文丢失问题: claunch 项目会话管理](https://blog.einverne.info/post/2025/08/claunch-claude-code-session-manager-under-cli.html)
 - [Langfuse 使得 LLM 应用全链路可观测](https://blog.einverne.info/post/2025/08/langfuse.html)
 - [VibeTunnel 将终端带到浏览器 开启移动化 Vibe Coding](https://blog.einverne.info/post/2025/08/vibetunnel.html)
-- [Keel 基于 Kubernetes 的自动部署工具](https://blog.einverne.info/post/2025/08/keel-kubernetes-auto-deployment.html)
-- [Claude Autopilot：自动化 Claude Code 任务](https://blog.einverne.info/post/2025/08/claude-autopilot-add-task-to-queue.html)
-- [Dia 浏览器初体验](https://blog.einverne.info/post/2025/08/dia-browser.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
