@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [突破 Claude Code 5小时限制：利用 GitHub Copilot 代理 Claude Code 请求](https://blog.einverne.info/post/2025/08/turn-github-copilot-to-claude-code.html)
 - [Claude Code PM 开源项目: 给你的 Claude Code 配置一位 PM](https://blog.einverne.info/post/2025/08/claude-code-pm.html)
 - [Whispering 开源离线的语音转文字应用](https://blog.einverne.info/post/2025/08/whispering-open-source-offline-speech-text.html)
 - [Crystal: 多 Claude Code 实例管理器](https://blog.einverne.info/post/2025/08/crystal-multi-session-claude-code-manager.html)
 - [解决 Claude Code 上下文丢失问题: claunch 项目会话管理](https://blog.einverne.info/post/2025/08/claunch-claude-code-session-manager-under-cli.html)
-- [Langfuse 使得 LLM 应用全链路可观测](https://blog.einverne.info/post/2025/08/langfuse.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
