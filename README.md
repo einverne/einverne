@@ -22,10 +22,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [AI 浏览器 Comet 初体验](https://blog.einverne.info/post/2025/09/comet-browser.html)
+- [我买了一条 Thunderbolt 数据线](https://blog.einverne.info/post/2025/09/thunderbolt-cable.html)
 - [清理 macOS 上的一些低频使用的应用](https://blog.einverne.info/post/2025/09/macos-cleanup-project.html)
 - [JetBrain AI Agent Junie 使用体验](https://blog.einverne.info/post/2025/09/jetbrains-junie.html)
 - [突破 Claude Code 5小时限制：利用 GitHub Copilot 代理 Claude Code 请求](https://blog.einverne.info/post/2025/08/turn-github-copilot-to-claude-code.html)
-- [Claude Code 利用 ccusage 统计使用情况](https://blog.einverne.info/post/2025/08/claude-code-ccusage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
