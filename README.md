@@ -24,8 +24,8 @@
 - [eu 顶级域名的限制和问题排查](https://blog.einverne.info/post/2025/09/eu-domain.html)
 - [搭建 Claude Code 中转服务](https://blog.einverne.info/post/2025/09/claude-relay-service.html)
 - [利用 Dev3000 优化 Claude Code 代码调试流程](https://blog.einverne.info/post/2025/09/dev3000.html)
+- [Complexity 插件提升 Perplexity.ai 使用体验](https://blog.einverne.info/post/2025/09/complexity.html)
 - [AI 浏览器 Comet 初体验](https://blog.einverne.info/post/2025/09/comet-browser.html)
-- [我买了一条 Thunderbolt 数据线](https://blog.einverne.info/post/2025/09/thunderbolt-cable.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
