@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Skills 功能介绍以及使用经验](https://blog.einverne.info/post/2025/11/claude-code-skills.html)
 - [利用 AI 来完成实盘交易](https://blog.einverne.info/post/2025/10/ai-trading.html)
 - [Claude 免费领一个月 Pro](https://blog.einverne.info/post/2025/10/claude-pro-free-1-month.html)
 - [WailBrew：给 Homebrew 增加简单现代化的图形界面](https://blog.einverne.info/post/2025/10/wailbrew.html)
 - [balenaEtcher 开源跨平台镜像写入工具](https://blog.einverne.info/post/2025/10/balenaetcher-flash-os-images-to-usb.html)
-- [eu 顶级域名的限制和问题排查](https://blog.einverne.info/post/2025/09/eu-domain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
