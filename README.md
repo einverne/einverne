@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [小凹语音输入法 又一款语音转文字应用](https://blog.einverne.info/post/2025/11/autotyper-autoglm-zhipu.html)
 - [iPhone/iOS 利用 Whistle 代理抓包](https://blog.einverne.info/post/2025/11/iphone-whistle.html)
 - [Claude Code Skills 功能介绍以及使用经验](https://blog.einverne.info/post/2025/11/claude-code-skills.html)
 - [利用 AI 来完成实盘交易](https://blog.einverne.info/post/2025/10/ai-trading.html)
 - [Claude 免费领一个月 Pro](https://blog.einverne.info/post/2025/10/claude-pro-free-1-month.html)
-- [WailBrew：给 Homebrew 增加简单现代化的图形界面](https://blog.einverne.info/post/2025/10/wailbrew.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
