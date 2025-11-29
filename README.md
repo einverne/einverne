@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Z-Image-Turbo 高性能 AI 图像生成模型](https://blog.einverne.info/post/2025/11/z-image-turbo.html)
 - [小凹语音输入法 又一款语音转文字应用](https://blog.einverne.info/post/2025/11/autotyper-autoglm-zhipu.html)
 - [iPhone/iOS 利用 Whistle 代理抓包](https://blog.einverne.info/post/2025/11/iphone-whistle.html)
 - [语音转文字技术方案以及应用整理](https://blog.einverne.info/post/2025/11/speech-to-text-app.html)
 - [Claude Code Skills 功能介绍以及使用经验](https://blog.einverne.info/post/2025/11/claude-code-skills.html)
-- [利用 AI 来完成实盘交易](https://blog.einverne.info/post/2025/10/ai-trading.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
