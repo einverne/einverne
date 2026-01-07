@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Code Wiki：让 GitHub 仓库秒变代码百科全书](https://blog.einverne.info/post/2025/12/google-code-wiki.html)
-- [Typeless: 又一款 macOS 上的 AI 语音输入利器](https://blog.einverne.info/post/2025/12/typeless-another-dication-app.html)
-- [让 AI 更懂你的工作流：Gemini CLI 自定义 Slash Commands 配置指南](https://blog.einverne.info/post/2025/12/gemini-cli-slash-commands-config.html)
-- [Gemini CLI 使用小技巧](https://blog.einverne.info/post/2025/12/gemini-cli-tips.html)
-- [在 Obsidian 中使用 Gemini CLI](https://blog.einverne.info/post/2025/12/use-gemini-cli-in-obsidian.html)
+- [我购买了一个 DJI Mic Mini](https://blog.einverne.info/post/2026/01/i-bought-a-dji-mic-mini.html)
+- [Auto Claude：Vibe Kanban 的终极形态？让 AI 并行开发的“指挥中心”来了](https://blog.einverne.info/post/2026/01/auto-claude-autonomous-parallel-ai-coding.html)
+- [Vibe Kanban：当 AI 开始并行协作，我们的开发方式变了](https://blog.einverne.info/post/2026/01/vibe-kanban-parallel-ai-worktree.html)
+- [终于还是入手了：Insta360 Go Ultra 初体验](https://blog.einverne.info/post/2025/12/insta360-go-ultra-review.html)
+- [Fish Audio Python SDK 体验：下一代高质量 TTS 与声音克隆利器](https://blog.einverne.info/post/2025/12/fish-audio-tts-python-sdk-intro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
