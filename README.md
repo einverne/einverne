@@ -13,6 +13,8 @@
 <a href="https://stackoverflow.com/users/1820217/einverne" target="_blank"><img align="center" src="images/stack-overflow.svg" alt="stackoverflow einverne" height="30" width="40" /></a>
 <a href="https://instagram.com/einverne" target="_blank"><img align="center" src="images/instagram.svg" alt="instagram einverne" height="30" width="40" /></a>
 <a href="https://www.douban.com/people/einverne" target="_blank"><img align="center" src="images/douban.svg" alt="douban einverne" height="30" width="40" /></a>
+<a href="https://space.bilibili.com/4849599/" target="_blank"><img align="center" src="images/bilibili.svg" alt="bilibili einverne" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@einverne" target="_blank"><img align="center" src="images/youtube.svg" alt="youtube einverne" height="30" width="40" /></a>
 <a href="https://homer.einverne.info" target="_blank"><img align="center" src="images/homer.svg" alt="einverne online services" height="30" width="40" /></a>
 
 ### 📊 Last year I spent my time on
