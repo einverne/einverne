@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [screen.garden：让 Obsidian 拥有 Google Docs 般的实时协作体验](https://blog.einverne.info/post/2026/02/screen-garden-obsidian-realtime-collaboration.html)
+- [Clawdbot 深度调研：打造完全属于自己的全平台 AI 助手](https://blog.einverne.info/post/2026/01/clawdbot-review.html)
 - [推荐我使用的 Agent Skills](https://blog.einverne.info/post/2026/01/recommended-agent-skills.html)
 - [Antigravity Agent Skills 功能介绍与实战指南](https://blog.einverne.info/post/2026/01/antigravity-agent-skills.html)
 - [Gemini CLI Agent Skills 功能介绍与上手指南](https://blog.einverne.info/post/2026/01/gemini-cli-agent-skills.html)
-- [我购买了一个 DJI Mic Mini](https://blog.einverne.info/post/2026/01/i-bought-a-dji-mic-mini.html)
-- [Auto Claude：Vibe Kanban 的终极形态？让 AI 并行开发的“指挥中心”来了](https://blog.einverne.info/post/2026/01/auto-claude-autonomous-parallel-ai-coding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
