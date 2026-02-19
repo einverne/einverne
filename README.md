@@ -20,7 +20,7 @@
 
 ### 📊 Last year I spent my time on
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=einverne&api_domain=wakapi.einverne.info&hide_title=true&hide_border=true&langs_count=18&bg_color=00000000&text_color=777&layout=compact)
+![wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=einverne&api_domain=wakapi.einverne.info&hide_title=true&hide_border=true&langs_count=18&bg_color=00000000&text_color=777&layout=compact)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
