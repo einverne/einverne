@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [我购买了 Sony WH-1000XM6](https://blog.einverne.info/post/2026/03/i-bought-sony-wh-1000xm6.html)
 - [花了一个多小时认真听李录在哥大的演讲，对价值投资新的理解](https://blog.einverne.info/post/2026/02/li-lu-columbia-value-investing-speech.html)
 - [screen.garden：让 Obsidian 拥有 Google Docs 般的实时协作体验](https://blog.einverne.info/post/2026/02/screen-garden-obsidian-realtime-collaboration.html)
 - [Clawdbot 深度调研：打造完全属于自己的全平台 AI 助手](https://blog.einverne.info/post/2026/01/clawdbot-review.html)
 - [推荐我使用的 Agent Skills](https://blog.einverne.info/post/2026/01/recommended-agent-skills.html)
-- [Antigravity Agent Skills 功能介绍与实战指南](https://blog.einverne.info/post/2026/01/antigravity-agent-skills.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
