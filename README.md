@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [我 Vibe Coding 了一个日本看房神器：BukkenAI](https://blog.einverne.info/post/2026/03/bukkenai-ai-powered-japan-real-estate-neighborhood-analysis.html)
-- [Atuin：用数据库替换 Shell 历史，跨设备同步不再是难题](https://blog.einverne.info/post/2026/03/atuin-shell-history-sync.html)
-- [Entire：让 AI 编程会话成为 Git 历史的一部分](https://blog.einverne.info/post/2026/03/entire-git-ai-session-capture.html)
-- [Ghostty 终端配置技巧：从入门到舒适](https://blog.einverne.info/post/2026/03/ghostty-terminal-tips-and-tricks.html)
-- [GitNexus：把你的代码库变成 AI 能读懂的知识图谱](https://blog.einverne.info/post/2026/03/gitnexus-zero-server-code-intelligence-engine.html)
+- [轻量文件服务工具 dufs 介绍](https://blog.einverne.info/post/2026/04/dufs-file-server-introduction.html)
+- [独角数卡用 Go 重写了：Dujiao-Next 全新架构的自动发卡系统](https://blog.einverne.info/post/2026/04/dujiao-next-digital-goods-selling-system.html)
+- [语音活动检测 VAD 介绍](https://blog.einverne.info/post/2026/04/vad-voice-activity-detection-introduction.html)
+- [Accio Work 阿里国际推出的跨境电商 AI Agent](https://blog.einverne.info/post/2026/03/alibaba-accio-work-ai-agent.html)
+- [Cloudflare 免费服务盘点](https://blog.einverne.info/post/2026/03/cloudflare-free-services-one-domain.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
