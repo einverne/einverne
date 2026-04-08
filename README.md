@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [轻量文件服务工具 dufs 介绍](https://blog.einverne.info/post/2026/04/dufs-file-server-introduction.html)
-- [独角数卡用 Go 重写了：Dujiao-Next 全新架构的自动发卡系统](https://blog.einverne.info/post/2026/04/dujiao-next-digital-goods-selling-system.html)
-- [语音活动检测 VAD 介绍](https://blog.einverne.info/post/2026/04/vad-voice-activity-detection-introduction.html)
-- [Accio Work 阿里国际推出的跨境电商 AI Agent](https://blog.einverne.info/post/2026/03/alibaba-accio-work-ai-agent.html)
-- [Cloudflare 免费服务盘点](https://blog.einverne.info/post/2026/03/cloudflare-free-services-one-domain.html)
+- [CLIProxyAPI 把 Claude Code、Gemini CLI、Codex 订阅包装成统一 API 的开源神器](https://blog.einverne.info/post/2026/04/cliproxyapi-unified-ai-gateway-for-cli-subscriptions.html)
+- [在 OpenClaw 中配置 Longbridge CLI 与 Skill 打造对话式量化交易工作流](https://blog.einverne.info/post/2026/04/openclaw-longbridge-cli-and-skill-setup-guide.html)
+- [Claude Code Agent Teams 是什么，如何使用](https://blog.einverne.info/post/2026/04/claude-code-agent-teams.html)
+- [Speakly：用声音代替键盘，AI 语音输入的新体验](https://blog.einverne.info/post/2026/04/genspark-speakly-ai-voice-to-text.html)
+- [LM Studio：在本地运行大语言模型的最佳桌面工具](https://blog.einverne.info/post/2026/04/lm-studio-local-llm-desktop-app.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
