@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Field Theory CLI：把 X Bookmarks 同步到本地，变成可搜索的个人知识库](https://blog.einverne.info/post/2026/04/field-theory-cli-x-bookmarks-local-sync.html)
-- [利用 mise 替换 asdf 的迁移方案](https://blog.einverne.info/post/2026/04/migrate-from-asdf-to-mise.html)
-- [CLIProxyAPI 把 Claude Code、Gemini CLI、Codex 订阅包装成统一 API 的开源神器](https://blog.einverne.info/post/2026/04/cliproxyapi-unified-ai-gateway-for-cli-subscriptions.html)
-- [在 OpenClaw 中配置 Longbridge CLI 与 Skill 打造对话式量化交易工作流](https://blog.einverne.info/post/2026/04/openclaw-longbridge-cli-and-skill-setup-guide.html)
-- [Claude Code Agent Teams 是什么，如何使用](https://blog.einverne.info/post/2026/04/claude-code-agent-teams.html)
+- [在 OpenClaw 中使用 Moomoo API Skills 查看和分析日本股市](https://blog.einverne.info/post/2026/04/openclaw-moomoo-api-japan-stock-analysis.html)
+- [OpenClaw 浏览器自动化方案对比：内置 browser 插件与 agent-browser 该怎么选](https://blog.einverne.info/post/2026/04/openclaw-browser-vs-agent-browser.html)
+- [FILCO 斐尔可机械键盘品牌倒闭：一个时代的终结](https://blog.einverne.info/post/2026/04/filco-diatec-closure.html)
+- [末日期权完全指南：策略、机制与提高胜率的方法](https://blog.einverne.info/post/2026/04/0dte-options-strategies-guide.html)
+- [日语新旧字体：从 Rime 输入法说起](https://blog.einverne.info/post/2026/04/japanese-new-old-kanji-forms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
