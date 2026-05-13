@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [在 OpenClaw 中使用 Moomoo API Skills 查看和分析日本股市](https://blog.einverne.info/post/2026/04/openclaw-moomoo-api-japan-stock-analysis.html)
-- [OpenClaw 浏览器自动化方案对比：内置 browser 插件与 agent-browser 该怎么选](https://blog.einverne.info/post/2026/04/openclaw-browser-vs-agent-browser.html)
-- [FILCO 斐尔可机械键盘品牌倒闭：一个时代的终结](https://blog.einverne.info/post/2026/04/filco-diatec-closure.html)
-- [末日期权完全指南：策略、机制与提高胜率的方法](https://blog.einverne.info/post/2026/04/0dte-options-strategies-guide.html)
-- [日语新旧字体：从 Rime 输入法说起](https://blog.einverne.info/post/2026/04/japanese-new-old-kanji-forms.html)
+- [Claude Code /goal：让 AI 自主持续工作直到达成目标的新命令](https://blog.einverne.info/post/2026/05/claude-code-goal-command.html)
+- [codex-lb：用负载均衡的思路管理多个 ChatGPT 账号](https://blog.einverne.info/post/2026/05/codex-lb-chatgpt-account-load-balancer.html)
+- [socat：比 netcat 更强大的网络瑞士军刀](https://blog.einverne.info/post/2026/05/socat-command-usage.html)
+- [本地快速切换 Claude Code 和 Codex CLI 账号的几种方案](https://blog.einverne.info/post/2026/05/switch-claude-code-codex-accounts.html)
+- [cc-switch：在多个 AI 编码工具之间优雅切换](https://blog.einverne.info/post/2026/05/cc-switch.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
