@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [试遍所有 Navidrome 客户端，我最终选择了 Narjo](https://blog.einverne.info/post/2026/05/narjo-music-player-review.html)
+- [Trellis：让 AI 编码代理真正投入生产的框架](https://blog.einverne.info/post/2026/05/trellis-ai-coding-agent-framework.html)
 - [Claude Code /goal：让 AI 自主持续工作直到达成目标的新命令](https://blog.einverne.info/post/2026/05/claude-code-goal-command.html)
-- [codex-lb：用负载均衡的思路管理多个 ChatGPT 账号](https://blog.einverne.info/post/2026/05/codex-lb-chatgpt-account-load-balancer.html)
-- [socat：比 netcat 更强大的网络瑞士军刀](https://blog.einverne.info/post/2026/05/socat-command-usage.html)
-- [本地快速切换 Claude Code 和 Codex CLI 账号的几种方案](https://blog.einverne.info/post/2026/05/switch-claude-code-codex-accounts.html)
-- [cc-switch：在多个 AI 编码工具之间优雅切换](https://blog.einverne.info/post/2026/05/cc-switch.html)
+- [PostHog：一站式开源产品分析平台](https://blog.einverne.info/post/2026/05/posthog-introduction.html)
+- [tiptop：用图表重新定义命令行系统监控](https://blog.einverne.info/post/2026/05/tiptop-command-line-system-monitor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
