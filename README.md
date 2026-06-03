@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [试遍所有 Navidrome 客户端，我最终选择了 Narjo](https://blog.einverne.info/post/2026/05/narjo-music-player-review.html)
-- [Trellis：让 AI 编码代理真正投入生产的框架](https://blog.einverne.info/post/2026/05/trellis-ai-coding-agent-framework.html)
-- [Claude Code /goal：让 AI 自主持续工作直到达成目标的新命令](https://blog.einverne.info/post/2026/05/claude-code-goal-command.html)
-- [PostHog：一站式开源产品分析平台](https://blog.einverne.info/post/2026/05/posthog-introduction.html)
-- [tiptop：用图表重新定义命令行系统监控](https://blog.einverne.info/post/2026/05/tiptop-command-line-system-monitor.html)
+- [Surfingkeys：比 Vimium 更强大的浏览器键盘控制扩展](https://blog.einverne.info/post/2026/06/surfingkeys-chrome-extension.html)
+- [Denote 介绍 Emacs 下基于文件名的笔记系统](https://blog.einverne.info/post/2026/05/introducing-denote-emacs-notes.html)
+- [Ghostty 和 xterm-ghostty 是什么](https://blog.einverne.info/post/2026/05/ghostty-and-xterm-ghostty.html)
+- [Antigravity CLI：Google 推出的下一代终端 AI 编程智能体](https://blog.einverne.info/post/2026/05/antigravity-cli-google-terminal-ai-agent.html)
+- [终端开发的新范式：从 Gemini CLI 到 Antigravity CLI](https://blog.einverne.info/post/2026/05/introducing-antigravity-cli.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
