@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code 第三方 API 代理配置 Headroom](https://blog.einverne.info/post/2026/06/headroom-with-custom-base-url-claude-code.html)
+- [Headroom：让 AI Agent 少花冤枉钱的上下文压缩工具](https://blog.einverne.info/post/2026/06/headroom-ai-context-compression-tool.html)
+- [用 Harbor 搭建私有 Docker Registry：从安装到日常使用的完整实践](https://blog.einverne.info/post/2026/06/harbor-private-docker-registry-setup.html)
+- [用 New API 打造个人 AI 网关：统一管理所有大语言模型接口](https://blog.einverne.info/post/2026/06/new-api-unified-llm-api-management.html)
 - [Surfingkeys：比 Vimium 更强大的浏览器键盘控制扩展](https://blog.einverne.info/post/2026/06/surfingkeys-chrome-extension.html)
-- [Denote 介绍 Emacs 下基于文件名的笔记系统](https://blog.einverne.info/post/2026/05/introducing-denote-emacs-notes.html)
-- [Ghostty 和 xterm-ghostty 是什么](https://blog.einverne.info/post/2026/05/ghostty-and-xterm-ghostty.html)
-- [Antigravity CLI：Google 推出的下一代终端 AI 编程智能体](https://blog.einverne.info/post/2026/05/antigravity-cli-google-terminal-ai-agent.html)
-- [终端开发的新范式：从 Gemini CLI 到 Antigravity CLI](https://blog.einverne.info/post/2026/05/introducing-antigravity-cli.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
