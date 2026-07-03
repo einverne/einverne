@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [herdr 一个窗口调度多个 Coding Agent](https://blog.einverne.info/post/2026/07/herdr.html)
 - [Claude Code 第三方 API 代理配置 Headroom](https://blog.einverne.info/post/2026/06/headroom-with-custom-base-url-claude-code.html)
 - [Headroom：让 AI Agent 少花冤枉钱的上下文压缩工具](https://blog.einverne.info/post/2026/06/headroom-ai-context-compression-tool.html)
 - [用 Harbor 搭建私有 Docker Registry：从安装到日常使用的完整实践](https://blog.einverne.info/post/2026/06/harbor-private-docker-registry-setup.html)
 - [用 New API 打造个人 AI 网关：统一管理所有大语言模型接口](https://blog.einverne.info/post/2026/06/new-api-unified-llm-api-management.html)
-- [Surfingkeys：比 Vimium 更强大的浏览器键盘控制扩展](https://blog.einverne.info/post/2026/06/surfingkeys-chrome-extension.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
