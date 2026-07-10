@@ -36,10 +36,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Syncthing 升级 2.0 后同步卡在 Preparing to Sync 的解决方法](https://blog.einverne.info/post/2026/07/syncthing-preparing-to-sync-after-upgrade.html)
+- [Git 分支管理与发布上线流程实战指南](https://blog.einverne.info/post/2026/07/git-branch-management-and-release-workflow.html)
 - [Orca ADE 体验：为 AI 编码 Agent 而生的开发环境，用 worktree 让一群 Agent 并行干活](https://blog.einverne.info/post/2026/07/orca-agent-development-environment.html)
 - [herdr 一个窗口调度多个 Coding Agent](https://blog.einverne.info/post/2026/07/herdr.html)
 - [Claude Code 第三方 API 代理配置 Headroom](https://blog.einverne.info/post/2026/06/headroom-with-custom-base-url-claude-code.html)
-- [Headroom：让 AI Agent 少花冤枉钱的上下文压缩工具](https://blog.einverne.info/post/2026/06/headroom-ai-context-compression-tool.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
