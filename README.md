@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [卧底厨神观后感](https://blog.einverne.info/post/2026/08/undercover-chef.html)
 - [mise 的 minimum_release_age 给新版本加一道冷静期的供应链安全机制](https://blog.einverne.info/post/2026/08/mise-minimum-release-age.html)
 - [chezmoi Go 语言编写的跨平台 dotfiles 管理工具](https://blog.einverne.info/post/2026/07/chezmoi.html)
 - [Syncthing 升级 2.0 后同步卡在 Preparing to Sync 的解决方法](https://blog.einverne.info/post/2026/07/syncthing-preparing-to-sync-after-upgrade.html)
 - [Git 分支管理与发布上线流程实战指南](https://blog.einverne.info/post/2026/07/git-branch-management-and-release-workflow.html)
-- [Orca ADE 体验：为 AI 编码 Agent 而生的开发环境，用 worktree 让一群 Agent 并行干活](https://blog.einverne.info/post/2026/07/orca-agent-development-environment.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
