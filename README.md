@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Executor：多 Agents 和外部世界之间的统一代理层](https://blog.einverne.info/post/2026/09/executor-integration-layer-for-ai-agents.html)
 - [把 Android 手机当成 USB 无线网卡：以及那些被低估的安卓妙用](https://blog.einverne.info/post/2026/08/android-phone-as-usb-network-adapter-and-more.html)
 - [Ignis：把 Obsidian 变成真正的自托管网页应用](https://blog.einverne.info/post/2026/08/ignis-obsidian-web-app.html)
 - [卧底厨神观后感](https://blog.einverne.info/post/2026/08/undercover-chef.html)
 - [mise 的 minimum_release_age 给新版本加一道冷静期的供应链安全机制](https://blog.einverne.info/post/2026/08/mise-minimum-release-age.html)
-- [chezmoi Go 语言编写的跨平台 dotfiles 管理工具](https://blog.einverne.info/post/2026/07/chezmoi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
