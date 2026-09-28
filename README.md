@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Muse 使用教程：上手设置、提示词技巧与实用案例](https://blog.einverne.info/post/2026/09/meta-muse-use-cases-tutorial.html)
+- [Meta Muse 介绍与注册指南：一个会替你跑腿的个人 AI Agent](https://blog.einverne.info/post/2026/09/meta-muse-ai-agent.html)
 - [Jev：不聊天只做判断的 System One 决策模型](https://blog.einverne.info/post/2026/09/jev-system-one-model.html)
 - [Executor：多 Agents 和外部世界之间的统一代理层](https://blog.einverne.info/post/2026/09/executor-integration-layer-for-ai-agents.html)
-- [把 Android 手机当成 USB 无线网卡：以及那些被低估的安卓妙用](https://blog.einverne.info/post/2026/08/android-phone-as-usb-network-adapter-and-more.html)
-- [Ignis：把 Obsidian 变成真正的自托管网页应用](https://blog.einverne.info/post/2026/08/ignis-obsidian-web-app.html)
-- [卧底厨神观后感](https://blog.einverne.info/post/2026/08/undercover-chef.html)
+- [Stremio 免费开源的流媒体聚合中心，插件生态与使用体验](https://blog.einverne.info/post/2026/08/stremio-streaming-media-center.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
