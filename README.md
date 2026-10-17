@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [呆呆面板 daidai-panel：轻量级青龙面板替代品介绍与 Docker 部署教程](https://blog.einverne.info/post/2026/10/daidai-panel.html)
 - [Git 本地忽略文件：.git/info/exclude 的作用与使用技巧](https://blog.einverne.info/post/2026/10/git-info-exclude.html)
 - [RAGFlow：以深度文档理解为核心的开源 RAG 引擎介绍与部署使用教程](https://blog.einverne.info/post/2026/10/ragflow-open-source-rag-engine.html)
 - [Meta Muse 使用教程：上手设置、提示词技巧与实用案例](https://blog.einverne.info/post/2026/09/meta-muse-use-cases-tutorial.html)
 - [Meta Muse 介绍与注册指南：一个会替你跑腿的个人 AI Agent](https://blog.einverne.info/post/2026/09/meta-muse-ai-agent.html)
-- [Jev：不聊天只做判断的 System One 决策模型](https://blog.einverne.info/post/2026/09/jev-system-one-model.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
