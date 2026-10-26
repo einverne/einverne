@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [入手 GL.iNet Comet Pro（RM10）：支持 Wi-Fi 6 的远程 IP KVM](https://blog.einverne.info/post/2026/10/gl-inet-comet-pro-rm10-ip-kvm.html)
 - [呆呆面板 MCP 配置教程：让 Claude、Cursor 用自然语言管理定时任务](https://blog.einverne.info/post/2026/10/daidai-panel-mcp.html)
 - [呆呆面板 daidai-panel：轻量级青龙面板替代品介绍与 Docker 部署教程](https://blog.einverne.info/post/2026/10/daidai-panel.html)
 - [Git 本地忽略文件：.git/info/exclude 的作用与使用技巧](https://blog.einverne.info/post/2026/10/git-info-exclude.html)
 - [RAGFlow：以深度文档理解为核心的开源 RAG 引擎介绍与部署使用教程](https://blog.einverne.info/post/2026/10/ragflow-open-source-rag-engine.html)
-- [Meta Muse 使用教程：上手设置、提示词技巧与实用案例](https://blog.einverne.info/post/2026/09/meta-muse-use-cases-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
