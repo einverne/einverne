@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reminders MenuBar 搭配 NextCloud CalDAV：把菜单栏待办同步到所有设备](https://blog.einverne.info/post/2026/11/reminders-menubar-nextcloud-caldav.html)
 - [Nowledge Mem 使用半年体验：让所有 AI Agent 共享同一份记忆](https://blog.einverne.info/post/2026/11/nowledge-mem-review-after-half-year.html)
 - [Aside AI 浏览器介绍：既能自己干活，也能接入 Agent](https://blog.einverne.info/post/2026/10/aside-ai-browser.html)
+- [Semaphore UI：开源自托管的 Ansible 与 Terraform 可视化管理面板](https://blog.einverne.info/post/2026/10/semaphore-ui.html)
 - [AI 浏览器自动化方案怎么选：从 Playwright、MCP 到 Agent 浏览器和 WebMCP 的全景梳理](https://blog.einverne.info/post/2026/10/ai-browser-automation-landscape.html)
-- [入手 GL.iNet Comet Pro（RM10）：支持 Wi-Fi 6 的远程 IP KVM](https://blog.einverne.info/post/2026/10/gl-inet-comet-pro-rm10-ip-kvm.html)
-- [呆呆面板 MCP 配置教程：让 Claude、Cursor 用自然语言管理定时任务](https://blog.einverne.info/post/2026/10/daidai-panel-mcp.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
