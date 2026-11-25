@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [tuicr：基于 Rust 开发的开源终端代码审查工具，像审 PR 一样审查 AI 写的代码](https://blog.einverne.info/post/2026/11/tuicr-terminal-code-review-tool.html)
 - [Reminders MenuBar 搭配 NextCloud CalDAV：把菜单栏待办同步到所有设备](https://blog.einverne.info/post/2026/11/reminders-menubar-nextcloud-caldav.html)
 - [Nowledge Mem 使用半年体验：让所有 AI Agent 共享同一份记忆](https://blog.einverne.info/post/2026/11/nowledge-mem-review-after-half-year.html)
 - [Aside AI 浏览器介绍：既能自己干活，也能接入 Agent](https://blog.einverne.info/post/2026/10/aside-ai-browser.html)
 - [Semaphore UI：开源自托管的 Ansible 与 Terraform 可视化管理面板](https://blog.einverne.info/post/2026/10/semaphore-ui.html)
-- [AI 浏览器自动化方案怎么选：从 Playwright、MCP 到 Agent 浏览器和 WebMCP 的全景梳理](https://blog.einverne.info/post/2026/10/ai-browser-automation-landscape.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👻 Metrics
